@@ -1,0 +1,98 @@
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+C:\Users\n8413983\Desktop\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+H:\AllNew570\Prac5-Awareness in .NET\Solution\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+H:\AllNew570\Prac6-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.SelectCulture.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.SelectCulture.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csprojResolveAssemblyReference.cache
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\de\BirthdayBook.resources.dll
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.de.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\de\BirthdayBook.resources.dll
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\de\BirthdayBook.resources.dll
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csprojResolveAssemblyReference.cache
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.SelectCulture.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.de.resources
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+C:\yue\2013-2\INN570\practicals\week7-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\de\BirthdayBook.resources.dll
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\bin\Debug\de\BirthdayBook.resources.dll
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csprojResolveAssemblyReference.cache
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.SelectCulture.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.de.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\Question\BirthdayBook\BirthdayBook\obj\Debug\de\BirthdayBook.resources.dll
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\bin\Debug\de\BirthdayBook.resources.dll
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csprojResolveAssemblyReference.cache
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.SelectCulture.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.de.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+C:\yue\2013-2\INN570\practicals\INN570 practicals (after 30 July)\week8-UI culture\test\BirthdayBook\BirthdayBook\obj\Debug\de\BirthdayBook.resources.dll
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe.config
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.exe
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.pdb
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.exe
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\bin\Debug\BirthdayBook.pdb
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\bin\Debug\de\BirthdayBook.resources.dll
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.BBook.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.Properties.Resources.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.SelectCulture.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.de.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.csproj.GenerateResource.Cache
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\de\BirthdayBook.resources.dll
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\bin\Debug\en\BirthdayBook.resources.dll
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\BirthdayBook.UIStrings.en.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac8\week8 birthdaybook\BirthdayBook\BirthdayBook\obj\Debug\en\BirthdayBook.resources.dll

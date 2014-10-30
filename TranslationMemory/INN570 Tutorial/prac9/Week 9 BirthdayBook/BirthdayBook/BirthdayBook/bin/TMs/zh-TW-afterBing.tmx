@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+  <header />
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="en-US">
+        <seg>CurrentUICulture</seg>
+      </tuv>
+      <tuv xml:lang="zh-TW">
+        <seg>強</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="en-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv xml:lang="zh-TW">
+        <seg>退出</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="en-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="zh-TW">
+        <seg>檔</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="en-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="zh-TW">
+        <seg>打開</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="en-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="zh-TW">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,24 @@
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.exe.config
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.exe
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.pdb
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.Properties.Resources.resources
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.TranslationMemory.resources
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.csproj.GenerateResource.Cache
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.exe
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.pdb
+c:\users\hung\documents\visual studio 2012\Projects\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.exe.config
+C:\Users\Hung\Desktop\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.exe
+C:\Users\Hung\Desktop\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.pdb
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.exe.config
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.exe
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.pdb
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.exe
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.pdb
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.csprojResolveAssemblyReference.cache
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.Properties.Resources.resources
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.TranslationMemory.resources
+F:\2013.11.29\INN570\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.csproj.GenerateResource.Cache
+Z:\Desktop\My Works\INN570_TranslationMemory\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\bin\Debug\INN570_TranslationMemory.exe.config
+Z:\Desktop\My Works\INN570_TranslationMemory\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.exe
+Z:\Desktop\My Works\INN570_TranslationMemory\Assignment2_n7622236\INN570_TranslationMemory\INN570_TranslationMemory\obj\Debug\INN570_TranslationMemory.pdb

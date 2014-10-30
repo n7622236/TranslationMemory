@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+  <header />
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="zh-CN">
+        <seg>CurrentCulture</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="zh-CN">
+        <seg>CurrentUICulture</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="zh-CN">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="zh-CN">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>插入脚本</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="zh-CN">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="zh-CN">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>打开</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="zh-CN">
+        <seg>SetCulture</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="zh-CN">
+        <seg>TranslationMemory</seg>
+      </tuv>
+      <tuv xml:lang="en-US">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

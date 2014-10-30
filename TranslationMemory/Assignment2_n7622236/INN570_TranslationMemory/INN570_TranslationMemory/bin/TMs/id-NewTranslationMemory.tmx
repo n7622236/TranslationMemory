@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+  <header />
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="en-US">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv xml:lang="id">
+        <seg>Keluar</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="en-US">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="id">
+        <seg>Berkas</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="en-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="id">
+        <seg>Buka</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="en-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="id">
+        <seg>Amankan</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

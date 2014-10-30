@@ -1,0 +1,36 @@
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe.config
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\bin\Debug\BBookWk2.pdb
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\obj\Debug\BBookWk2.csprojResolveAssemblyReference.cache
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\obj\Debug\BBookWk2.BBook.resources
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\obj\Debug\BBookWk2.Properties.Resources.resources
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\obj\Debug\BBookWk2.csproj.GenerateResource.Cache
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\obj\Debug\BBookWk2.exe
+C:\yue\2013-2\INN570\practicals\Week2\BBookWk2\BBookWk2\obj\Debug\BBookWk2.pdb
+C:\yue\2013-2\INN570\practicals\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe.config
+C:\yue\2013-2\INN570\practicals\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.exe
+C:\yue\2013-2\INN570\practicals\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.pdb
+C:\yue\2013-2\INN570\practicals\practicals-new\Week3-Introducing .NET\solution\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe.config
+C:\yue\2013-2\INN570\practicals\practicals-new\Week3-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.exe
+C:\yue\2013-2\INN570\practicals\practicals-new\Week3-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (18 July)\Week3-Introducing .NET\solution\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe.config
+C:\yue\2013-2\INN570\practicals\INN570 practicals (18 July)\Week3-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.exe
+C:\yue\2013-2\INN570\practicals\INN570 practicals (18 July)\Week3-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe.config
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.exe
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\bin\Debug\BBookWk2.pdb
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.csprojResolveAssemblyReference.cache
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.BBook.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.Properties.Resources.resources
+C:\yue\2013-2\INN570\practicals\INN570 practicals (23 July)\Week2-Introducing .NET\solution\BBookWk2\BBookWk2\obj\Debug\BBookWk2.csproj.GenerateResource.Cache
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe.config
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\obj\Debug\BBookWk2.exe
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\obj\Debug\BBookWk2.pdb
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\bin\Debug\BBookWk2.exe
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\bin\Debug\BBookWk2.pdb
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\obj\Debug\BBookWk2.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\obj\Debug\BBookWk2.BBook.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\obj\Debug\BBookWk2.Properties.Resources.resources
+C:\Users\Hung\Desktop\INN570 Tutorial\prac3\BBookWk2(1)\BBookWk2\BBookWk2\obj\Debug\BBookWk2.csproj.GenerateResource.Cache

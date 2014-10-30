@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+  <header />
+  <body>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>CurrentCulture</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>CurrentUICulture</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>File</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>Inserisci script</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>Open</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>Simboli comuni</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>Save</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>All'apertura</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>SetCulture</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="1">
+      <tuv d4p1:lang="en-US" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>TranslationMemory</seg>
+      </tuv>
+      <tuv d4p1:lang="it" xmlns:d4p1="http://www.w3.org/XML/1998/namespace">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,29 @@
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\bin\Debug\UICulture.exe.config
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\bin\Debug\UICulture.exe
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\bin\Debug\UICulture.pdb
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\bin\Debug\en-US\UICulture.resources.dll
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\bin\Debug\zh-CN\UICulture.resources.dll
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\UICulture.Form1.resources
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\UICulture.Properties.Resources.resources
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\UICulture.Form1.en-US.resources
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\UICulture.Form1.zh-CN.resources
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\UICulture.csproj.GenerateResource.Cache
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\en-US\UICulture.resources.dll
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\zh-CN\UICulture.resources.dll
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\UICulture.exe
+C:\yue\2013-2\INN570\lectures\updated INN570lectures week1-11(after 19 August)\week6-localization in .NET\demo\UICulture\UICulture\obj\Debug\UICulture.pdb
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\bin\Debug\UICulture.exe.config
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.exe
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.pdb
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\bin\Debug\UICulture.exe
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\bin\Debug\UICulture.pdb
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\bin\Debug\en-US\UICulture.resources.dll
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\bin\Debug\zh-CN\UICulture.resources.dll
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.Form1.resources
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.Properties.Resources.resources
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.Form1.en-US.resources
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.Form1.zh-CN.resources
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\UICulture.csproj.GenerateResource.Cache
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\en-US\UICulture.resources.dll
+C:\Users\Hung\Downloads\Example Code UICulture\UICulture\UICulture\obj\Debug\zh-CN\UICulture.resources.dll

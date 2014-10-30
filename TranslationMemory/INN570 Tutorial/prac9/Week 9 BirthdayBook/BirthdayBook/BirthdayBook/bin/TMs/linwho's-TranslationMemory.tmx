@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+  <header />
+  <body>
+    <tu tuid="1">
+      <tuv>
+        <seg>CurrentCulture</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv>
+        <seg>CurrentUICulture</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv>
+        <seg>Exit</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv>
+        <seg>File</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv>
+        <seg>Open</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv>
+        <seg>Save</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv>
+        <seg>SetCulture</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv>
+        <seg>TranslationMemory</seg>
+      </tuv>
+      <tuv>
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

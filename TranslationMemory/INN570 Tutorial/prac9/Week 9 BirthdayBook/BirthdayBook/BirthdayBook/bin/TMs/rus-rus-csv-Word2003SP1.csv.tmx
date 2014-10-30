@@ -1,0 +1,7775 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.3.0" datatype="x-table" segtype="sentence" adminlang="en" srclang="EN-US" o-tmf="TMX" changedate="20071023T154251Z">
+</header>
+<body>
+<tu tuid="1">
+<tuv xml:lang="EN-US">
+<seg>Fix Broken Text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Восстановление поврежденного текста</seg>
+</tuv>
+</tu>
+<tu tuid="2">
+<tuv xml:lang="EN-US">
+<seg>Entire document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>всему документу</seg>
+</tuv>
+</tu>
+<tu tuid="3">
+<tuv xml:lang="EN-US">
+<seg>Selection</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>выделенному фрагменту</seg>
+</tuv>
+</tu>
+<tu tuid="4">
+<tuv xml:lang="EN-US">
+<seg>Document language:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Язык документа:</seg>
+</tuv>
+</tu>
+<tu tuid="5">
+<tuv xml:lang="EN-US">
+<seg>Stop</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отмена</seg>
+</tuv>
+</tu>
+<tu tuid="6">
+<tuv xml:lang="EN-US">
+<seg>Converting text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Преобразование текста</seg>
+</tuv>
+</tu>
+<tu tuid="7">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Word Font Repair Tool</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Восстановление шрифтов в документах Microsoft Word</seg>
+</tuv>
+</tu>
+<tu tuid="8">
+<tuv xml:lang="EN-US">
+<seg>An Arial font will be applied to the converted text.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>К преобразованному тексту будет применен шрифт Arial.</seg>
+</tuv>
+</tu>
+<tu tuid="9">
+<tuv xml:lang="EN-US">
+<seg>A Tahoma font will be applied to the converted text.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>К преобразованному тексту будет применен шрифт Tahoma.</seg>
+</tuv>
+</tu>
+<tu tuid="10">
+<tuv xml:lang="EN-US">
+<seg>The operation is not finished. Are you sure you want to stop now?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Операция не закончилась. Прекратить немедленно?</seg>
+</tuv>
+</tu>
+<tu tuid="11">
+<tuv xml:lang="EN-US">
+<seg>Update\tF3</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обновить\tF3</seg>
+</tuv>
+</tu>
+<tu tuid="12">
+<tuv xml:lang="EN-US">
+<seg>Exit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выход</seg>
+</tuv>
+</tu>
+<tu tuid="13">
+<tuv xml:lang="EN-US">
+<seg>Can't Undo\tCtrl+Z</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отмена невозможна\tCtrl+Z</seg>
+</tuv>
+</tu>
+<tu tuid="14">
+<tuv xml:lang="EN-US">
+<seg>Cut\tCtrl+X</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вырезать\tCtrl+X</seg>
+</tuv>
+</tu>
+<tu tuid="15">
+<tuv xml:lang="EN-US">
+<seg>Copy\tCtrl+C</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Копировать\tCtrl+C</seg>
+</tuv>
+</tu>
+<tu tuid="16">
+<tuv xml:lang="EN-US">
+<seg>Paste\tCtrl+V</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вставить\tCtrl+V</seg>
+</tuv>
+</tu>
+<tu tuid="17">
+<tuv xml:lang="EN-US">
+<seg>Clear\tDelete</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Очистить\tDel</seg>
+</tuv>
+</tu>
+<tu tuid="18">
+<tuv xml:lang="EN-US">
+<seg>Select All\tCtrl+A</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выделить все\tCtrl+A</seg>
+</tuv>
+</tu>
+<tu tuid="19">
+<tuv xml:lang="EN-US">
+<seg>Zoom...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Масштаб...</seg>
+</tuv>
+</tu>
+<tu tuid="20">
+<tuv xml:lang="EN-US">
+<seg>Toolbar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Панель инструментов</seg>
+</tuv>
+</tu>
+<tu tuid="21">
+<tuv xml:lang="EN-US">
+<seg>Redraw</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обновить</seg>
+</tuv>
+</tu>
+<tu tuid="22">
+<tuv xml:lang="EN-US">
+<seg>Show All</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Показать все</seg>
+</tuv>
+</tu>
+<tu tuid="23">
+<tuv xml:lang="EN-US">
+<seg>Align Left</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По левому краю</seg>
+</tuv>
+</tu>
+<tu tuid="24">
+<tuv xml:lang="EN-US">
+<seg>Align Center</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По центру</seg>
+</tuv>
+</tu>
+<tu tuid="25">
+<tuv xml:lang="EN-US">
+<seg>Align Right</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По правому краю</seg>
+</tuv>
+</tu>
+<tu tuid="26">
+<tuv xml:lang="EN-US">
+<seg>Align at =</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выровнять по =</seg>
+</tuv>
+</tu>
+<tu tuid="27">
+<tuv xml:lang="EN-US">
+<seg>Align at %</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выровнять по %</seg>
+</tuv>
+</tu>
+<tu tuid="28">
+<tuv xml:lang="EN-US">
+<seg>Matrix...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица...</seg>
+</tuv>
+</tu>
+<tu tuid="29">
+<tuv xml:lang="EN-US">
+<seg>Spacing...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интервал...</seg>
+</tuv>
+</tu>
+<tu tuid="30">
+<tuv xml:lang="EN-US">
+<seg>Math</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Математический</seg>
+</tuv>
+</tu>
+<tu tuid="31">
+<tuv xml:lang="EN-US">
+<seg>Text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Текст</seg>
+</tuv>
+</tu>
+<tu tuid="32">
+<tuv xml:lang="EN-US">
+<seg>Function</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Функция</seg>
+</tuv>
+</tu>
+<tu tuid="33">
+<tuv xml:lang="EN-US">
+<seg>Variable</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Переменная</seg>
+</tuv>
+</tu>
+<tu tuid="34">
+<tuv xml:lang="EN-US">
+<seg>Greek</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Греческий</seg>
+</tuv>
+</tu>
+<tu tuid="35">
+<tuv xml:lang="EN-US">
+<seg>Matrix-Vector</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица-вектор</seg>
+</tuv>
+</tu>
+<tu tuid="36">
+<tuv xml:lang="EN-US">
+<seg>Full</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обычный</seg>
+</tuv>
+</tu>
+<tu tuid="37">
+<tuv xml:lang="EN-US">
+<seg>Subscript</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Крупный индекс</seg>
+</tuv>
+</tu>
+<tu tuid="38">
+<tuv xml:lang="EN-US">
+<seg>Sub-Subscript</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Мелкий индекс</seg>
+</tuv>
+</tu>
+<tu tuid="39">
+<tuv xml:lang="EN-US">
+<seg>Symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Крупный символ</seg>
+</tuv>
+</tu>
+<tu tuid="40">
+<tuv xml:lang="EN-US">
+<seg>Sub-Symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Мелкий символ</seg>
+</tuv>
+</tu>
+<tu tuid="41">
+<tuv xml:lang="EN-US">
+<seg>Other...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Другой...</seg>
+</tuv>
+</tu>
+<tu tuid="42">
+<tuv xml:lang="EN-US">
+<seg>Define...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Определить...</seg>
+</tuv>
+</tu>
+<tu tuid="43">
+<tuv xml:lang="EN-US">
+<seg>Equation Editor Help Topics\tF1</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вызов справки\tF1</seg>
+</tuv>
+</tu>
+<tu tuid="44">
+<tuv xml:lang="EN-US">
+<seg>About Microsoft Equation Editor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>О программе</seg>
+</tuv>
+</tu>
+<tu tuid="45">
+<tuv xml:lang="EN-US">
+<seg>File</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Файл</seg>
+</tuv>
+</tu>
+<tu tuid="46">
+<tuv xml:lang="EN-US">
+<seg>Edit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Правка</seg>
+</tuv>
+</tu>
+<tu tuid="47">
+<tuv xml:lang="EN-US">
+<seg>View</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вид</seg>
+</tuv>
+</tu>
+<tu tuid="48">
+<tuv xml:lang="EN-US">
+<seg>Format</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формат</seg>
+</tuv>
+</tu>
+<tu tuid="49">
+<tuv xml:lang="EN-US">
+<seg>Style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стиль</seg>
+</tuv>
+</tu>
+<tu tuid="50">
+<tuv xml:lang="EN-US">
+<seg>Size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Размер</seg>
+</tuv>
+</tu>
+<tu tuid="51">
+<tuv xml:lang="EN-US">
+<seg>Help</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Справка</seg>
+</tuv>
+</tu>
+<tu tuid="52">
+<tuv xml:lang="EN-US">
+<seg>About Microsoft Equation Editor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>О редакторе формул</seg>
+</tuv>
+</tu>
+<tu tuid="53">
+<tuv xml:lang="EN-US">
+<seg>Other Style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Другой стиль</seg>
+</tuv>
+</tu>
+<tu tuid="54">
+<tuv xml:lang="EN-US">
+<seg>Italic</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Наклонный</seg>
+</tuv>
+</tu>
+<tu tuid="55">
+<tuv xml:lang="EN-US">
+<seg>Fonts:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шрифты:</seg>
+</tuv>
+</tu>
+<tu tuid="56">
+<tuv xml:lang="EN-US">
+<seg>Bold</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Полужирный</seg>
+</tuv>
+</tu>
+<tu tuid="57">
+<tuv xml:lang="EN-US">
+<seg>Font</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шрифт</seg>
+</tuv>
+</tu>
+<tu tuid="58">
+<tuv xml:lang="EN-US">
+<seg>Bold</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Полужирный</seg>
+</tuv>
+</tu>
+<tu tuid="59">
+<tuv xml:lang="EN-US">
+<seg>Italic</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Наклонный</seg>
+</tuv>
+</tu>
+<tu tuid="60">
+<tuv xml:lang="EN-US">
+<seg>Variable . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Переменная . .</seg>
+</tuv>
+</tu>
+<tu tuid="61">
+<tuv xml:lang="EN-US">
+<seg>L.C. Greek . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стр. греческие .</seg>
+</tuv>
+</tu>
+<tu tuid="62">
+<tuv xml:lang="EN-US">
+<seg>U.C. Greek . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пр. греческие . .</seg>
+</tuv>
+</tu>
+<tu tuid="63">
+<tuv xml:lang="EN-US">
+<seg>Symbol . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Символ . . . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="64">
+<tuv xml:lang="EN-US">
+<seg>Matrix-Vector . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица-вектор</seg>
+</tuv>
+</tu>
+<tu tuid="65">
+<tuv xml:lang="EN-US">
+<seg>Number . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Числа . . . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="66">
+<tuv xml:lang="EN-US">
+<seg>Text . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Текст . . . . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="67">
+<tuv xml:lang="EN-US">
+<seg>Function . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Функция  . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="68">
+<tuv xml:lang="EN-US">
+<seg>Styles</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стили</seg>
+</tuv>
+</tu>
+<tu tuid="69">
+<tuv xml:lang="EN-US">
+<seg>Character Format</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формат символов</seg>
+</tuv>
+</tu>
+<tu tuid="70">
+<tuv xml:lang="EN-US">
+<seg>Text style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стиль ''Текст''</seg>
+</tuv>
+</tu>
+<tu tuid="71">
+<tuv xml:lang="EN-US">
+<seg>Other styles</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Другие стили</seg>
+</tuv>
+</tu>
+<tu tuid="72">
+<tuv xml:lang="EN-US">
+<seg>Function . . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Функция . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="73">
+<tuv xml:lang="EN-US">
+<seg>Variable . . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Переменная . .</seg>
+</tuv>
+</tu>
+<tu tuid="74">
+<tuv xml:lang="EN-US">
+<seg>L.C. Greek . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стр. греческие .</seg>
+</tuv>
+</tu>
+<tu tuid="75">
+<tuv xml:lang="EN-US">
+<seg>U.C. Greek . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пр. греческие . .</seg>
+</tuv>
+</tu>
+<tu tuid="76">
+<tuv xml:lang="EN-US">
+<seg>Symbol . . . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Символ . . . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="77">
+<tuv xml:lang="EN-US">
+<seg>Matrix-Vector . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица-вектор</seg>
+</tuv>
+</tu>
+<tu tuid="78">
+<tuv xml:lang="EN-US">
+<seg>Number . . . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Числа . . . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="79">
+<tuv xml:lang="EN-US">
+<seg>Text . . . . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Текст . . . . . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="80">
+<tuv xml:lang="EN-US">
+<seg>Text (FE) . . . . . . . . . .</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Текст (ДВ) . . . .</seg>
+</tuv>
+</tu>
+<tu tuid="81">
+<tuv xml:lang="EN-US">
+<seg>Spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интервал</seg>
+</tuv>
+</tu>
+<tu tuid="82">
+<tuv xml:lang="EN-US">
+<seg>Apply</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применить</seg>
+</tuv>
+</tu>
+<tu tuid="83">
+<tuv xml:lang="EN-US">
+<seg>Defaults</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По умолчанию</seg>
+</tuv>
+</tu>
+<tu tuid="84">
+<tuv xml:lang="EN-US">
+<seg>Matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица</seg>
+</tuv>
+</tu>
+<tu tuid="85">
+<tuv xml:lang="EN-US">
+<seg>Column align:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание столбцов:</seg>
+</tuv>
+</tu>
+<tu tuid="86">
+<tuv xml:lang="EN-US">
+<seg>Left</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По левому краю</seg>
+</tuv>
+</tu>
+<tu tuid="87">
+<tuv xml:lang="EN-US">
+<seg>Center</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По центру</seg>
+</tuv>
+</tu>
+<tu tuid="88">
+<tuv xml:lang="EN-US">
+<seg>Right</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По правому краю</seg>
+</tuv>
+</tu>
+<tu tuid="89">
+<tuv xml:lang="EN-US">
+<seg>At =</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По =</seg>
+</tuv>
+</tu>
+<tu tuid="90">
+<tuv xml:lang="EN-US">
+<seg>At %</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По %</seg>
+</tuv>
+</tu>
+<tu tuid="91">
+<tuv xml:lang="EN-US">
+<seg>Columns</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Столбцов</seg>
+</tuv>
+</tu>
+<tu tuid="92">
+<tuv xml:lang="EN-US">
+<seg>Rows</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Строк</seg>
+</tuv>
+</tu>
+<tu tuid="93">
+<tuv xml:lang="EN-US">
+<seg>Equal column widths</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Столбцы равной ширины</seg>
+</tuv>
+</tu>
+<tu tuid="94">
+<tuv xml:lang="EN-US">
+<seg>Row align:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание строк:</seg>
+</tuv>
+</tu>
+<tu tuid="95">
+<tuv xml:lang="EN-US">
+<seg>Top</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По верхнему краю</seg>
+</tuv>
+</tu>
+<tu tuid="96">
+<tuv xml:lang="EN-US">
+<seg>Baseline</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По опорной линии</seg>
+</tuv>
+</tu>
+<tu tuid="97">
+<tuv xml:lang="EN-US">
+<seg>Bottom</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>По нижнему краю</seg>
+</tuv>
+</tu>
+<tu tuid="98">
+<tuv xml:lang="EN-US">
+<seg>Equal row heights</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Строки равной высоты</seg>
+</tuv>
+</tu>
+<tu tuid="99">
+<tuv xml:lang="EN-US">
+<seg>Click between elements to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Щелкните между элементами матрицы,</seg>
+</tuv>
+</tu>
+<tu tuid="100">
+<tuv xml:lang="EN-US">
+<seg>add/change partition lines.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>чтобы указать расположение и тип линии.</seg>
+</tuv>
+</tu>
+<tu tuid="101">
+<tuv xml:lang="EN-US">
+<seg>Magnification</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Увеличение</seg>
+</tuv>
+</tu>
+<tu tuid="102">
+<tuv xml:lang="EN-US">
+<seg>Custom:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Другое:</seg>
+</tuv>
+</tu>
+<tu tuid="103">
+<tuv xml:lang="EN-US">
+<seg>Other Size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Другой размер</seg>
+</tuv>
+</tu>
+<tu tuid="104">
+<tuv xml:lang="EN-US">
+<seg>Equation Editor Tip</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Знаете ли вы?</seg>
+</tuv>
+</tu>
+<tu tuid="105">
+<tuv xml:lang="EN-US">
+<seg>Don't show me this again</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не отображать это окно в дальнейшем</seg>
+</tuv>
+</tu>
+<tu tuid="106">
+<tuv xml:lang="EN-US">
+<seg>MathType is a powerful upgrade to Equation Editor with many additional features.\r\rDo you want to find out more about MathType?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>MathType - это более мощная версия данного редактора формул.\r\rХотите узнать больше о MathType?</seg>
+</tuv>
+</tu>
+<tu tuid="107">
+<tuv xml:lang="EN-US">
+<seg>Save the equation or quit Equation Editor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сохранение формулы или выход из редактора формул</seg>
+</tuv>
+</tu>
+<tu tuid="108">
+<tuv xml:lang="EN-US">
+<seg>Undo, delete, copy, insert, or select</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отмена, удаление, копирование, вставка или выделение</seg>
+</tuv>
+</tu>
+<tu tuid="109">
+<tuv xml:lang="EN-US">
+<seg>Choose zoom percentage and other display options</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выбор масштаба и других параметров отображения</seg>
+</tuv>
+</tu>
+<tu tuid="110">
+<tuv xml:lang="EN-US">
+<seg>Align piles of lines, modify matrices or define spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание, изменение матриц или определение интервала</seg>
+</tuv>
+</tu>
+<tu tuid="111">
+<tuv xml:lang="EN-US">
+<seg>Apply fonts and styles or change style definitions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение или изменение шрифтов и стилей</seg>
+</tuv>
+</tu>
+<tu tuid="112">
+<tuv xml:lang="EN-US">
+<seg>Apply sizes and change size definitions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение или изменение размеров символов</seg>
+</tuv>
+</tu>
+<tu tuid="113">
+<tuv xml:lang="EN-US">
+<seg>Get help on using Equation Editor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Получение справки о редакторе формул</seg>
+</tuv>
+</tu>
+<tu tuid="114">
+<tuv xml:lang="EN-US">
+<seg>Updates your document without closing Equation Editor\nNot available - the equation is not attached to a document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обновление документа без закрытия редактора формул\nНедоступно - формула не связана с документом</seg>
+</tuv>
+</tu>
+<tu tuid="115">
+<tuv xml:lang="EN-US">
+<seg>Quits Equation Editor and returns you to the document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выход из редактора формул и возврат в документ</seg>
+</tuv>
+</tu>
+<tu tuid="116">
+<tuv xml:lang="EN-US">
+<seg>Reverses the last action\nNot available because the last action cannot be reversed</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отмена последнего выполненного действия\nПоследнее действие не может быть отменено</seg>
+</tuv>
+</tu>
+<tu tuid="117">
+<tuv xml:lang="EN-US">
+<seg>Cuts the selection and puts it on the Clipboard\nNot available because no part of the equation is selected</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Удаление выделенного фрагмента в буфер обмена\nНедоступно - отсутствует выделенный фрагмент формулы</seg>
+</tuv>
+</tu>
+<tu tuid="118">
+<tuv xml:lang="EN-US">
+<seg>Copies the selection and puts it on the Clipboard\nNot available because no part of the equation is selected</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Копирование выделенного фрагмента в буфер обмена\nНедоступно - отсутствует выделенный фрагмент формулы</seg>
+</tuv>
+</tu>
+<tu tuid="119">
+<tuv xml:lang="EN-US">
+<seg>Inserts the Clipboard contents at the insertion point\nNot available - the Clipboard does not contain an equation</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вставка содержимого буфера обмена в позицию курсора\nНедоступно - буфер обмена пуст</seg>
+</tuv>
+</tu>
+<tu tuid="120">
+<tuv xml:lang="EN-US">
+<seg>Removes the selection without putting it on the Clipboard\nNot available because no part of the equation is selected</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Удаление выделенного фрагмента\nНедоступно - отсутствует выделенный фрагмент формулы</seg>
+</tuv>
+</tu>
+<tu tuid="121">
+<tuv xml:lang="EN-US">
+<seg>Selects the entire equation</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выделение всей формулы</seg>
+</tuv>
+</tu>
+<tu tuid="122">
+<tuv xml:lang="EN-US">
+<seg>Redoes the last action that was undone\nNot available because the last action cannot be redone</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Возврат результатов отмененного действия\nНедоступно - последнее действие не может быть отменено</seg>
+</tuv>
+</tu>
+<tu tuid="123">
+<tuv xml:lang="EN-US">
+<seg>Scales the editing view to actual size\nNot available as this equation is being edited in a document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обычный масштаб отображения\nНедоступно - формула редактируется непосредственно в документе</seg>
+</tuv>
+</tu>
+<tu tuid="124">
+<tuv xml:lang="EN-US">
+<seg>Scales the editing view to twice actual size\nNot available as this equation is being edited in a document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Увеличение масштаба отображения в два раза\nНедоступно - формула редактируется непосредственно в документе</seg>
+</tuv>
+</tu>
+<tu tuid="125">
+<tuv xml:lang="EN-US">
+<seg>Scales the editing view to four times actual size\nNot available as this equation is being edited in a document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Увеличение масштаба отображения в четыре раза\nНедоступно - формула редактируется непосредственно в документе</seg>
+</tuv>
+</tu>
+<tu tuid="126">
+<tuv xml:lang="EN-US">
+<seg>Scales the editing view to another magnification\nNot available as this equation is being edited in a document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выбор масштаба отображения\nНедоступно - формула редактируется непосредственно в документе</seg>
+</tuv>
+</tu>
+<tu tuid="127">
+<tuv xml:lang="EN-US">
+<seg>Shows or hides the Equation Editor toolbar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вывод и скрытие панели инструментов</seg>
+</tuv>
+</tu>
+<tu tuid="128">
+<tuv xml:lang="EN-US">
+<seg>Updates the equation display</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обновление изображения формулы на экране</seg>
+</tuv>
+</tu>
+<tu tuid="129">
+<tuv xml:lang="EN-US">
+<seg>Shows or hides non-printing characters</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вывод и скрытие управляющих знаков</seg>
+</tuv>
+</tu>
+<tu tuid="130">
+<tuv xml:lang="EN-US">
+<seg>Move, size, or close application window</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение положения и размера или закрытие окна приложения</seg>
+</tuv>
+</tu>
+<tu tuid="131">
+<tuv xml:lang="EN-US">
+<seg>Displays the Windows Control Panel window</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вывод на экран панели управления Windows</seg>
+</tuv>
+</tu>
+<tu tuid="132">
+<tuv xml:lang="EN-US">
+<seg>Shows the contents of the Clipboard</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отображение содержимого буфера обмена</seg>
+</tuv>
+</tu>
+<tu tuid="133">
+<tuv xml:lang="EN-US">
+<seg>Left-aligns the lines in a pile\nNot available - the insertion point is not in a pile</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание строк в стопке по левому краю\nНедоступно - курсор находится не в стопке</seg>
+</tuv>
+</tu>
+<tu tuid="134">
+<tuv xml:lang="EN-US">
+<seg>Centers the lines in a pile\nNot available - the insertion point is not in a pile</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание строк в стопке по центру\nНедоступно - курсор находится не в стопке</seg>
+</tuv>
+</tu>
+<tu tuid="135">
+<tuv xml:lang="EN-US">
+<seg>Right-aligns the lines in a pile\nNot available - the insertion point is not in a pile</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание строк в стопке по правому краю\nНедоступно - курсор находится не в стопке</seg>
+</tuv>
+</tu>
+<tu tuid="136">
+<tuv xml:lang="EN-US">
+<seg>Aligns equality/inequality signs of lines in a pile\nNot available - the insertion point is not in a pile</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание строк в стопке по знаку равно/не равно\nНедоступно - курсор находится не в стопке</seg>
+</tuv>
+</tu>
+<tu tuid="137">
+<tuv xml:lang="EN-US">
+<seg>Aligns decimal points of lines in a pile\nNot available - the insertion point is not in a pile</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выравнивание строк в стопке по разделителю целой и дробной частей числа\nНедоступно - курсор находится не в стопке</seg>
+</tuv>
+</tu>
+<tu tuid="138">
+<tuv xml:lang="EN-US">
+<seg>Modifies the layout of a matrix\nNot available - the insertion point is not in a matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение макета матрицы\nНедоступно - курсор находится не в матрице</seg>
+</tuv>
+</tu>
+<tu tuid="139">
+<tuv xml:lang="EN-US">
+<seg>Defines dimensions that control position of equation items</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Определение расстояний между элементами формулы</seg>
+</tuv>
+</tu>
+<tu tuid="140">
+<tuv xml:lang="EN-US">
+<seg>Chooses Function or Variable style automatically</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Автоматический выбор стиля ''Функция'' или ''Переменная''</seg>
+</tuv>
+</tu>
+<tu tuid="141">
+<tuv xml:lang="EN-US">
+<seg>Applies Text font and character style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение шрифта и начертания, определенных для текста</seg>
+</tuv>
+</tu>
+<tu tuid="142">
+<tuv xml:lang="EN-US">
+<seg>Applies Function font and character style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение шрифта и начертания, определенных для функций</seg>
+</tuv>
+</tu>
+<tu tuid="143">
+<tuv xml:lang="EN-US">
+<seg>Applies Variable font and character style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение шрифта и начертания, определенных для переменных</seg>
+</tuv>
+</tu>
+<tu tuid="144">
+<tuv xml:lang="EN-US">
+<seg>Applies Greek font and character style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение шрифта и начертания, определенных для греческих букв</seg>
+</tuv>
+</tu>
+<tu tuid="145">
+<tuv xml:lang="EN-US">
+<seg>Applies Matrix-Vector font and character style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение шрифта и начертания, определенных для матриц и векторов</seg>
+</tuv>
+</tu>
+<tu tuid="146">
+<tuv xml:lang="EN-US">
+<seg>Applies a font directly - without using styles</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение шрифта, выбранного пользователем</seg>
+</tuv>
+</tu>
+<tu tuid="147">
+<tuv xml:lang="EN-US">
+<seg>Changes fonts and character styles in style definitions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение шрифтов и начертаний, определенных для стилей</seg>
+</tuv>
+</tu>
+<tu tuid="148">
+<tuv xml:lang="EN-US">
+<seg>Changes typesize to Full size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение размера, определенного для обычных символов</seg>
+</tuv>
+</tu>
+<tu tuid="149">
+<tuv xml:lang="EN-US">
+<seg>Changes typesize to Subscript size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение размера, определенного для крупных индексов</seg>
+</tuv>
+</tu>
+<tu tuid="150">
+<tuv xml:lang="EN-US">
+<seg>Changes typesize to Sub-subscript size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение размера, определенного для мелких индексов</seg>
+</tuv>
+</tu>
+<tu tuid="151">
+<tuv xml:lang="EN-US">
+<seg>Changes typesize to Symbol size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение размера, определенного для крупных символов</seg>
+</tuv>
+</tu>
+<tu tuid="152">
+<tuv xml:lang="EN-US">
+<seg>Changes typesize to Sub-symbol size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение размера, определенного для мелких индексов</seg>
+</tuv>
+</tu>
+<tu tuid="153">
+<tuv xml:lang="EN-US">
+<seg>Changes typesize directly - without using size definitions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Применение размера, выбранного пользователем</seg>
+</tuv>
+</tu>
+<tu tuid="154">
+<tuv xml:lang="EN-US">
+<seg>Changes typesizes in size definitions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение ранее определенных размеров</seg>
+</tuv>
+</tu>
+<tu tuid="155">
+<tuv xml:lang="EN-US">
+<seg>Displays Help index</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вывод на экран предметного указателя справки</seg>
+</tuv>
+</tu>
+<tu tuid="156">
+<tuv xml:lang="EN-US">
+<seg>Displays the Equation Editor version and copyright</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вывод сведений о программе, ее версии и авторских правах</seg>
+</tuv>
+</tu>
+<tu tuid="157">
+<tuv xml:lang="EN-US">
+<seg>Full</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обычный</seg>
+</tuv>
+</tu>
+<tu tuid="158">
+<tuv xml:lang="EN-US">
+<seg>Subscript/Superscript</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Крупный индекс</seg>
+</tuv>
+</tu>
+<tu tuid="159">
+<tuv xml:lang="EN-US">
+<seg>Sub- Subscript/Superscript</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Мелкий индекс</seg>
+</tuv>
+</tu>
+<tu tuid="160">
+<tuv xml:lang="EN-US">
+<seg>Symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Крупный символ</seg>
+</tuv>
+</tu>
+<tu tuid="161">
+<tuv xml:lang="EN-US">
+<seg>Sub-symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Мелкий символ</seg>
+</tuv>
+</tu>
+<tu tuid="162">
+<tuv xml:lang="EN-US">
+<seg>Cut</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>удаление в буфер обмена</seg>
+</tuv>
+</tu>
+<tu tuid="163">
+<tuv xml:lang="EN-US">
+<seg>Copy</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>копирование в буфер обмена</seg>
+</tuv>
+</tu>
+<tu tuid="164">
+<tuv xml:lang="EN-US">
+<seg>Paste</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>вставку из буфера обмена</seg>
+</tuv>
+</tu>
+<tu tuid="165">
+<tuv xml:lang="EN-US">
+<seg>Clear</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>удаление</seg>
+</tuv>
+</tu>
+<tu tuid="166">
+<tuv xml:lang="EN-US">
+<seg>Template</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>вставку элемента</seg>
+</tuv>
+</tu>
+<tu tuid="167">
+<tuv xml:lang="EN-US">
+<seg>Style Change</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменение стиля</seg>
+</tuv>
+</tu>
+<tu tuid="168">
+<tuv xml:lang="EN-US">
+<seg>Size Change</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменение размера</seg>
+</tuv>
+</tu>
+<tu tuid="169">
+<tuv xml:lang="EN-US">
+<seg>Size Assignment</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>назначение размера</seg>
+</tuv>
+</tu>
+<tu tuid="170">
+<tuv xml:lang="EN-US">
+<seg>Style Assignment</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>назначение стиля</seg>
+</tuv>
+</tu>
+<tu tuid="171">
+<tuv xml:lang="EN-US">
+<seg>Alignment</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>выравнивание</seg>
+</tuv>
+</tu>
+<tu tuid="172">
+<tuv xml:lang="EN-US">
+<seg>Spacing Changes</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменение интервалов</seg>
+</tuv>
+</tu>
+<tu tuid="173">
+<tuv xml:lang="EN-US">
+<seg>Tab Stop Changes</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменение позиций табуляции</seg>
+</tuv>
+</tu>
+<tu tuid="174">
+<tuv xml:lang="EN-US">
+<seg>Matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменение матрицы</seg>
+</tuv>
+</tu>
+<tu tuid="175">
+<tuv xml:lang="EN-US">
+<seg>Matrix Change</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменение матрицы</seg>
+</tuv>
+</tu>
+<tu tuid="176">
+<tuv xml:lang="EN-US">
+<seg>Line Space Change</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменение междустрочного интервала</seg>
+</tuv>
+</tu>
+<tu tuid="177">
+<tuv xml:lang="EN-US">
+<seg>Macro Insertion</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>вставку макроса</seg>
+</tuv>
+</tu>
+<tu tuid="178">
+<tuv xml:lang="EN-US">
+<seg>Line spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Междустрочный интервал</seg>
+</tuv>
+</tu>
+<tu tuid="179">
+<tuv xml:lang="EN-US">
+<seg>Matrix row spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Расстояние между строками</seg>
+</tuv>
+</tu>
+<tu tuid="180">
+<tuv xml:lang="EN-US">
+<seg>Matrix column spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Расстояние между столбцами</seg>
+</tuv>
+</tu>
+<tu tuid="181">
+<tuv xml:lang="EN-US">
+<seg>Superscript height</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Высота верхнего индекса</seg>
+</tuv>
+</tu>
+<tu tuid="182">
+<tuv xml:lang="EN-US">
+<seg>Subscript depth</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Глубина нижнего индекса</seg>
+</tuv>
+</tu>
+<tu tuid="183">
+<tuv xml:lang="EN-US">
+<seg>Limit height</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Высота верхнего предела</seg>
+</tuv>
+</tu>
+<tu tuid="184">
+<tuv xml:lang="EN-US">
+<seg>Limit depth</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Глубина нижнего предела</seg>
+</tuv>
+</tu>
+<tu tuid="185">
+<tuv xml:lang="EN-US">
+<seg>Limit line spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интервал между пределами</seg>
+</tuv>
+</tu>
+<tu tuid="186">
+<tuv xml:lang="EN-US">
+<seg>Numerator height</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Высота числителя</seg>
+</tuv>
+</tu>
+<tu tuid="187">
+<tuv xml:lang="EN-US">
+<seg>Denominator depth</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Глубина знаменателя</seg>
+</tuv>
+</tu>
+<tu tuid="188">
+<tuv xml:lang="EN-US">
+<seg>Fraction bar overhang</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выступ черты дроби</seg>
+</tuv>
+</tu>
+<tu tuid="189">
+<tuv xml:lang="EN-US">
+<seg>Fraction bar thickness</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Толщина черты дроби</seg>
+</tuv>
+</tu>
+<tu tuid="190">
+<tuv xml:lang="EN-US">
+<seg>Sub-fraction bar thickness</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Толщина дополнительной черты</seg>
+</tuv>
+</tu>
+<tu tuid="191">
+<tuv xml:lang="EN-US">
+<seg>Fence overhang</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выступ скобок</seg>
+</tuv>
+</tu>
+<tu tuid="192">
+<tuv xml:lang="EN-US">
+<seg>Spacing adjustment</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Расстояние до знака</seg>
+</tuv>
+</tu>
+<tu tuid="193">
+<tuv xml:lang="EN-US">
+<seg>Minimum gap</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Минимальный просвет</seg>
+</tuv>
+</tu>
+<tu tuid="194">
+<tuv xml:lang="EN-US">
+<seg>Radical gap</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Просвет в радикале</seg>
+</tuv>
+</tu>
+<tu tuid="195">
+<tuv xml:lang="EN-US">
+<seg>Embellishment gap</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Надстрочные знаки</seg>
+</tuv>
+</tu>
+<tu tuid="196">
+<tuv xml:lang="EN-US">
+<seg>Prime Height</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Высота штрихованного символа</seg>
+</tuv>
+</tu>
+<tu tuid="197">
+<tuv xml:lang="EN-US">
+<seg>Line spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интервал</seg>
+</tuv>
+</tu>
+<tu tuid="198">
+<tuv xml:lang="EN-US">
+<seg>WMF/std</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>WMF/стандарт</seg>
+</tuv>
+</tu>
+<tu tuid="199">
+<tuv xml:lang="EN-US">
+<seg>EPS/none</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>EPS/нет</seg>
+</tuv>
+</tu>
+<tu tuid="200">
+<tuv xml:lang="EN-US">
+<seg>in</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>''</seg>
+</tuv>
+</tu>
+<tu tuid="201">
+<tuv xml:lang="EN-US">
+<seg>7 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>7 пт</seg>
+</tuv>
+</tu>
+<tu tuid="202">
+<tuv xml:lang="EN-US">
+<seg>5 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>5 пт</seg>
+</tuv>
+</tu>
+<tu tuid="203">
+<tuv xml:lang="EN-US">
+<seg>18 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>18 пт</seg>
+</tuv>
+</tu>
+<tu tuid="204">
+<tuv xml:lang="EN-US">
+<seg>12 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>12 пт</seg>
+</tuv>
+</tu>
+<tu tuid="205">
+<tuv xml:lang="EN-US">
+<seg>10 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>10 пт</seg>
+</tuv>
+</tu>
+<tu tuid="206">
+<tuv xml:lang="EN-US">
+<seg>20 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>20 пт</seg>
+</tuv>
+</tu>
+<tu tuid="207">
+<tuv xml:lang="EN-US">
+<seg>1 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>1 пт</seg>
+</tuv>
+</tu>
+<tu tuid="208">
+<tuv xml:lang="EN-US">
+<seg>0.5 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>0,5 пт</seg>
+</tuv>
+</tu>
+<tu tuid="209">
+<tuv xml:lang="EN-US">
+<seg>0.25 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>0,25 пт</seg>
+</tuv>
+</tu>
+<tu tuid="210">
+<tuv xml:lang="EN-US">
+<seg>2 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>2 пт</seg>
+</tuv>
+</tu>
+<tu tuid="211">
+<tuv xml:lang="EN-US">
+<seg>1.5 pt</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>1,5 пт</seg>
+</tuv>
+</tu>
+<tu tuid="212">
+<tuv xml:lang="EN-US">
+<seg>Function</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Функция</seg>
+</tuv>
+</tu>
+<tu tuid="213">
+<tuv xml:lang="EN-US">
+<seg>Variable</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Переменная</seg>
+</tuv>
+</tu>
+<tu tuid="214">
+<tuv xml:lang="EN-US">
+<seg>L.C. Greek</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стр. греческие</seg>
+</tuv>
+</tu>
+<tu tuid="215">
+<tuv xml:lang="EN-US">
+<seg>U.C. Greek</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пр. греческие</seg>
+</tuv>
+</tu>
+<tu tuid="216">
+<tuv xml:lang="EN-US">
+<seg>Number</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Числа</seg>
+</tuv>
+</tu>
+<tu tuid="217">
+<tuv xml:lang="EN-US">
+<seg>Text (FE)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Текст (ДВ)</seg>
+</tuv>
+</tu>
+<tu tuid="218">
+<tuv xml:lang="EN-US">
+<seg>Parentheses, or round brackets</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Круглые скобки</seg>
+</tuv>
+</tu>
+<tu tuid="219">
+<tuv xml:lang="EN-US">
+<seg>Brackets, or square brackets</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Квадратные скобки</seg>
+</tuv>
+</tu>
+<tu tuid="220">
+<tuv xml:lang="EN-US">
+<seg>Braces, or curly brackets</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фигурные скобки</seg>
+</tuv>
+</tu>
+<tu tuid="221">
+<tuv xml:lang="EN-US">
+<seg>Angle brackets (inner products, etc.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Угловые скобки</seg>
+</tuv>
+</tu>
+<tu tuid="222">
+<tuv xml:lang="EN-US">
+<seg>Single vertical bars (absolute value, determinant, etc.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальные скобки (абсолютное значение, детерминант и т. п.)</seg>
+</tuv>
+</tu>
+<tu tuid="223">
+<tuv xml:lang="EN-US">
+<seg>Double vertical bars (norms)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойные вертикальные скобки (норма)</seg>
+</tuv>
+</tu>
+<tu tuid="224">
+<tuv xml:lang="EN-US">
+<seg>Floor brackets</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Полуквадратные скобки</seg>
+</tuv>
+</tu>
+<tu tuid="225">
+<tuv xml:lang="EN-US">
+<seg>Ceiling brackets</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Полуквадратные скобки</seg>
+</tuv>
+</tu>
+<tu tuid="226">
+<tuv xml:lang="EN-US">
+<seg>Brackets denoting a type of interval</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Скобки, обозначающие тип интервала</seg>
+</tuv>
+</tu>
+<tu tuid="227">
+<tuv xml:lang="EN-US">
+<seg>Upper horizontal brace</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Верхняя горизонтальная фигурная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="228">
+<tuv xml:lang="EN-US">
+<seg>Lower horizontal brace</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нижняя горизонтальная фигурная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="229">
+<tuv xml:lang="EN-US">
+<seg>Left parenthesis</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открывающая круглая скобка</seg>
+</tuv>
+</tu>
+<tu tuid="230">
+<tuv xml:lang="EN-US">
+<seg>Left angle bracket</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открывающая угловая скобка</seg>
+</tuv>
+</tu>
+<tu tuid="231">
+<tuv xml:lang="EN-US">
+<seg>Right angle bracket</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрывающая угловая скобка</seg>
+</tuv>
+</tu>
+<tu tuid="232">
+<tuv xml:lang="EN-US">
+<seg>Left vertical bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открывающая вертикальная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="233">
+<tuv xml:lang="EN-US">
+<seg>Right vertical bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрывающая вертикальная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="234">
+<tuv xml:lang="EN-US">
+<seg>Left double bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открывающая двойная вертикальная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="235">
+<tuv xml:lang="EN-US">
+<seg>Right double bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрывающая двойная вертикальная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="236">
+<tuv xml:lang="EN-US">
+<seg>Bra-ket (-ket)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальная и угловая скобки</seg>
+</tuv>
+</tu>
+<tu tuid="237">
+<tuv xml:lang="EN-US">
+<seg>Bra-ket (bra)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Угловая и вертикальная скобки</seg>
+</tuv>
+</tu>
+<tu tuid="238">
+<tuv xml:lang="EN-US">
+<seg>Bra-ket</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальная скобка в угловых скобках</seg>
+</tuv>
+</tu>
+<tu tuid="239">
+<tuv xml:lang="EN-US">
+<seg>Full-size vertical fraction</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальная дробь обычного размера</seg>
+</tuv>
+</tu>
+<tu tuid="240">
+<tuv xml:lang="EN-US">
+<seg>Reduced-size vertical fraction</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальная дробь уменьшенного размера</seg>
+</tuv>
+</tu>
+<tu tuid="241">
+<tuv xml:lang="EN-US">
+<seg>Full-size diagonal fraction</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диагональная дробь обычного размера</seg>
+</tuv>
+</tu>
+<tu tuid="242">
+<tuv xml:lang="EN-US">
+<seg>Reduced-size diagonal fraction</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диагональная дробь уменьшенного размера</seg>
+</tuv>
+</tu>
+<tu tuid="243">
+<tuv xml:lang="EN-US">
+<seg>Square root</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Квадратный корень</seg>
+</tuv>
+</tu>
+<tu tuid="244">
+<tuv xml:lang="EN-US">
+<seg>Nth root</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Корень n-й степени</seg>
+</tuv>
+</tu>
+<tu tuid="245">
+<tuv xml:lang="EN-US">
+<seg>Long division</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Длинное деление</seg>
+</tuv>
+</tu>
+<tu tuid="246">
+<tuv xml:lang="EN-US">
+<seg>Long division with quotient</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Длинное деление с частным</seg>
+</tuv>
+</tu>
+<tu tuid="247">
+<tuv xml:lang="EN-US">
+<seg>Superscript</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Верхний индекс</seg>
+</tuv>
+</tu>
+<tu tuid="248">
+<tuv xml:lang="EN-US">
+<seg>Subscript</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нижний индекс</seg>
+</tuv>
+</tu>
+<tu tuid="249">
+<tuv xml:lang="EN-US">
+<seg>Superscript and subscript</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Верхний и нижний индексы</seg>
+</tuv>
+</tu>
+<tu tuid="250">
+<tuv xml:lang="EN-US">
+<seg>Superscript to left of character</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Верхний индекс слева</seg>
+</tuv>
+</tu>
+<tu tuid="251">
+<tuv xml:lang="EN-US">
+<seg>Subscript to left of character</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нижний индекс слева</seg>
+</tuv>
+</tu>
+<tu tuid="252">
+<tuv xml:lang="EN-US">
+<seg>Subscript and superscript to left of character</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Верхний и нижний индексы слева</seg>
+</tuv>
+</tu>
+<tu tuid="253">
+<tuv xml:lang="EN-US">
+<seg>Over-script</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Индекс сверху</seg>
+</tuv>
+</tu>
+<tu tuid="254">
+<tuv xml:lang="EN-US">
+<seg>Under-script (limit)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Индекс снизу</seg>
+</tuv>
+</tu>
+<tu tuid="255">
+<tuv xml:lang="EN-US">
+<seg>Over-script and under-script</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Индексы сверху и снизу</seg>
+</tuv>
+</tu>
+<tu tuid="256">
+<tuv xml:lang="EN-US">
+<seg>Large operator with superscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Оператор с верхним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="257">
+<tuv xml:lang="EN-US">
+<seg>Large operator with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Оператор с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="258">
+<tuv xml:lang="EN-US">
+<seg>Large operator with superscript and subscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Оператор с верхним и нижним индексами</seg>
+</tuv>
+</tu>
+<tu tuid="259">
+<tuv xml:lang="EN-US">
+<seg>Large operator with over-script limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Индекс над оператором</seg>
+</tuv>
+</tu>
+<tu tuid="260">
+<tuv xml:lang="EN-US">
+<seg>Large operator with under-script limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Индекс под оператором</seg>
+</tuv>
+</tu>
+<tu tuid="261">
+<tuv xml:lang="EN-US">
+<seg>Large operator with over-script and under-script limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Индексы над и под оператором</seg>
+</tuv>
+</tu>
+<tu tuid="262">
+<tuv xml:lang="EN-US">
+<seg>Summation with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сумма без пределов</seg>
+</tuv>
+</tu>
+<tu tuid="263">
+<tuv xml:lang="EN-US">
+<seg>Summation with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сумма с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="264">
+<tuv xml:lang="EN-US">
+<seg>Summation with underscript and overscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сумма с пределами</seg>
+</tuv>
+</tu>
+<tu tuid="265">
+<tuv xml:lang="EN-US">
+<seg>Summation with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сумма с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="266">
+<tuv xml:lang="EN-US">
+<seg>Summation with subscript and superscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сумма с нижним и верхним индексами</seg>
+</tuv>
+</tu>
+<tu tuid="267">
+<tuv xml:lang="EN-US">
+<seg>Indefinite integral (no limits)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенный интеграл (без пределов)</seg>
+</tuv>
+</tu>
+<tu tuid="268">
+<tuv xml:lang="EN-US">
+<seg>Definite integral with overscript and underscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Определенный интеграл с верхним и нижним пределами</seg>
+</tuv>
+</tu>
+<tu tuid="269">
+<tuv xml:lang="EN-US">
+<seg>Definite integral with superscript and subscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Определенный интеграл с верхним и нижним индексами</seg>
+</tuv>
+</tu>
+<tu tuid="270">
+<tuv xml:lang="EN-US">
+<seg>Integral with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="271">
+<tuv xml:lang="EN-US">
+<seg>Integral with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="272">
+<tuv xml:lang="EN-US">
+<seg>Double integral with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойной неопределенный интеграл</seg>
+</tuv>
+</tu>
+<tu tuid="273">
+<tuv xml:lang="EN-US">
+<seg>Double integral with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойной интеграл с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="274">
+<tuv xml:lang="EN-US">
+<seg>Double integral with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойной интеграл с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="275">
+<tuv xml:lang="EN-US">
+<seg>Triple integral with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тройной неопределенный интеграл</seg>
+</tuv>
+</tu>
+<tu tuid="276">
+<tuv xml:lang="EN-US">
+<seg>Triple integral with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тройной интеграл с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="277">
+<tuv xml:lang="EN-US">
+<seg>Triple integral with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тройной интеграл с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="278">
+<tuv xml:lang="EN-US">
+<seg>Contour integral with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенный интеграл по контуру</seg>
+</tuv>
+</tu>
+<tu tuid="279">
+<tuv xml:lang="EN-US">
+<seg>Contour integral with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл по контуру с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="280">
+<tuv xml:lang="EN-US">
+<seg>Contour integral with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл по контуру с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="281">
+<tuv xml:lang="EN-US">
+<seg>Area integral with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенный интеграл по площади</seg>
+</tuv>
+</tu>
+<tu tuid="282">
+<tuv xml:lang="EN-US">
+<seg>Area integral with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл по площади с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="283">
+<tuv xml:lang="EN-US">
+<seg>Area integral with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл по площади с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="284">
+<tuv xml:lang="EN-US">
+<seg>Volume integral with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенный интеграл по объему</seg>
+</tuv>
+</tu>
+<tu tuid="285">
+<tuv xml:lang="EN-US">
+<seg>Volume integral with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл по объему с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="286">
+<tuv xml:lang="EN-US">
+<seg>Volume integral with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл по объему с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="287">
+<tuv xml:lang="EN-US">
+<seg>Over-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Черта сверху</seg>
+</tuv>
+</tu>
+<tu tuid="288">
+<tuv xml:lang="EN-US">
+<seg>Double over-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная черта сверху</seg>
+</tuv>
+</tu>
+<tu tuid="289">
+<tuv xml:lang="EN-US">
+<seg>Under-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Черта снизу</seg>
+</tuv>
+</tu>
+<tu tuid="290">
+<tuv xml:lang="EN-US">
+<seg>Double under-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная черта снизу</seg>
+</tuv>
+</tu>
+<tu tuid="291">
+<tuv xml:lang="EN-US">
+<seg>Right arrow with upper text slot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вправо с текстом сверху</seg>
+</tuv>
+</tu>
+<tu tuid="292">
+<tuv xml:lang="EN-US">
+<seg>Left arrow with upper text slot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка влево с текстом сверху</seg>
+</tuv>
+</tu>
+<tu tuid="293">
+<tuv xml:lang="EN-US">
+<seg>Double-headed arrow with upper text slot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двусторонняя стрелка с текстом сверху</seg>
+</tuv>
+</tu>
+<tu tuid="294">
+<tuv xml:lang="EN-US">
+<seg>Right arrow with lower text slot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вправо с текстом снизу</seg>
+</tuv>
+</tu>
+<tu tuid="295">
+<tuv xml:lang="EN-US">
+<seg>Left arrow with lower text slot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка влево с текстом снизу</seg>
+</tuv>
+</tu>
+<tu tuid="296">
+<tuv xml:lang="EN-US">
+<seg>Double-headed arrow with lower text slot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двусторонняя стрелка с текстом снизу</seg>
+</tuv>
+</tu>
+<tu tuid="297">
+<tuv xml:lang="EN-US">
+<seg>Product with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенное произведение</seg>
+</tuv>
+</tu>
+<tu tuid="298">
+<tuv xml:lang="EN-US">
+<seg>Product with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Произведение с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="299">
+<tuv xml:lang="EN-US">
+<seg>Product with underscript and overscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Произведение с нижним и верхним пределами</seg>
+</tuv>
+</tu>
+<tu tuid="300">
+<tuv xml:lang="EN-US">
+<seg>Product with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Произведение с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="301">
+<tuv xml:lang="EN-US">
+<seg>Product with subscript and superscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Произведение с нижним и верхним индексами</seg>
+</tuv>
+</tu>
+<tu tuid="302">
+<tuv xml:lang="EN-US">
+<seg>Coproduct with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенное сопроизведение</seg>
+</tuv>
+</tu>
+<tu tuid="303">
+<tuv xml:lang="EN-US">
+<seg>Coproduct with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сопроизведение с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="304">
+<tuv xml:lang="EN-US">
+<seg>Coproduct with underscript and overscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сопроизведение с нижним и верхним пределами</seg>
+</tuv>
+</tu>
+<tu tuid="305">
+<tuv xml:lang="EN-US">
+<seg>Coproduct with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сопроизведение с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="306">
+<tuv xml:lang="EN-US">
+<seg>Coproduct with subscript and superscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сопроизведение с нижним и верхним индексами</seg>
+</tuv>
+</tu>
+<tu tuid="307">
+<tuv xml:lang="EN-US">
+<seg>Intersection with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенное пересечение</seg>
+</tuv>
+</tu>
+<tu tuid="308">
+<tuv xml:lang="EN-US">
+<seg>Intersection with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пересечение с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="309">
+<tuv xml:lang="EN-US">
+<seg>Intersection with underscript and overscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пересечение с нижним и верхним пределами</seg>
+</tuv>
+</tu>
+<tu tuid="310">
+<tuv xml:lang="EN-US">
+<seg>Intersection with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пересечение с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="311">
+<tuv xml:lang="EN-US">
+<seg>Intersection with subscript and superscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пересечение с нижним и верхним индексами</seg>
+</tuv>
+</tu>
+<tu tuid="312">
+<tuv xml:lang="EN-US">
+<seg>Union with no limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неопределенное объединение</seg>
+</tuv>
+</tu>
+<tu tuid="313">
+<tuv xml:lang="EN-US">
+<seg>Union with underscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Объединение с нижним пределом</seg>
+</tuv>
+</tu>
+<tu tuid="314">
+<tuv xml:lang="EN-US">
+<seg>Union with underscript and overscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Объединение с нижним и верхним пределами</seg>
+</tuv>
+</tu>
+<tu tuid="315">
+<tuv xml:lang="EN-US">
+<seg>Union with subscript limit</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Объединение с нижним индексом</seg>
+</tuv>
+</tu>
+<tu tuid="316">
+<tuv xml:lang="EN-US">
+<seg>Union with subscript and superscript limits</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Объединение с нижним и верхним индексами</seg>
+</tuv>
+</tu>
+<tu tuid="317">
+<tuv xml:lang="EN-US">
+<seg>1 row, 2 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 1 строки и 2 столбцов</seg>
+</tuv>
+</tu>
+<tu tuid="318">
+<tuv xml:lang="EN-US">
+<seg>2 row, 1 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 2 строк и 1 столбца</seg>
+</tuv>
+</tu>
+<tu tuid="319">
+<tuv xml:lang="EN-US">
+<seg>2 row, 2 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 2 строк и 2 столбцов</seg>
+</tuv>
+</tu>
+<tu tuid="320">
+<tuv xml:lang="EN-US">
+<seg>1 row, 3 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 1 строки и 3 столбцов</seg>
+</tuv>
+</tu>
+<tu tuid="321">
+<tuv xml:lang="EN-US">
+<seg>3 row, 1 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 3 строк и 1 столбца</seg>
+</tuv>
+</tu>
+<tu tuid="322">
+<tuv xml:lang="EN-US">
+<seg>3 row, 3 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 3 строк и 3 столбцов</seg>
+</tuv>
+</tu>
+<tu tuid="323">
+<tuv xml:lang="EN-US">
+<seg>1 row, 4 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 1 строки и 4 столбцов</seg>
+</tuv>
+</tu>
+<tu tuid="324">
+<tuv xml:lang="EN-US">
+<seg>4 row, 1 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 4 строк и 1 столбца</seg>
+</tuv>
+</tu>
+<tu tuid="325">
+<tuv xml:lang="EN-US">
+<seg>4 row, 4 column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 4 строк и 4 столбцов</seg>
+</tuv>
+</tu>
+<tu tuid="326">
+<tuv xml:lang="EN-US">
+<seg>Variable-size row matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 1 строки переменного размера</seg>
+</tuv>
+</tu>
+<tu tuid="327">
+<tuv xml:lang="EN-US">
+<seg>Variable-size column matrix</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица из 1 столбца переменного размера</seg>
+</tuv>
+</tu>
+<tu tuid="328">
+<tuv xml:lang="EN-US">
+<seg>Variable-size matrix or table</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица или таблица переменного размера</seg>
+</tuv>
+</tu>
+<tu tuid="329">
+<tuv xml:lang="EN-US">
+<seg>Left arrow over-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка влево сверху</seg>
+</tuv>
+</tu>
+<tu tuid="330">
+<tuv xml:lang="EN-US">
+<seg>Right arrow over-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вправо сверху</seg>
+</tuv>
+</tu>
+<tu tuid="331">
+<tuv xml:lang="EN-US">
+<seg>Double arrow over-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двусторонняя стрелка сверху</seg>
+</tuv>
+</tu>
+<tu tuid="332">
+<tuv xml:lang="EN-US">
+<seg>Left arrow under-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка влево снизу</seg>
+</tuv>
+</tu>
+<tu tuid="333">
+<tuv xml:lang="EN-US">
+<seg>Right arrow under-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вправо снизу</seg>
+</tuv>
+</tu>
+<tu tuid="334">
+<tuv xml:lang="EN-US">
+<seg>Double arrow under-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двусторонняя стрелка снизу</seg>
+</tuv>
+</tu>
+<tu tuid="335">
+<tuv xml:lang="EN-US">
+<seg>Fence templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны скобок</seg>
+</tuv>
+</tu>
+<tu tuid="336">
+<tuv xml:lang="EN-US">
+<seg>Fraction and radical templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны дробей и радикалов</seg>
+</tuv>
+</tu>
+<tu tuid="337">
+<tuv xml:lang="EN-US">
+<seg>Subscript and superscript templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны верхних и нижних индексов</seg>
+</tuv>
+</tu>
+<tu tuid="338">
+<tuv xml:lang="EN-US">
+<seg>Summation templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны сумм</seg>
+</tuv>
+</tu>
+<tu tuid="339">
+<tuv xml:lang="EN-US">
+<seg>Integral templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны интегралов</seg>
+</tuv>
+</tu>
+<tu tuid="340">
+<tuv xml:lang="EN-US">
+<seg>Underbar and overbar templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны надчеркивания и подчеркивания</seg>
+</tuv>
+</tu>
+<tu tuid="341">
+<tuv xml:lang="EN-US">
+<seg>Labeled arrow templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны стрелок с текстом</seg>
+</tuv>
+</tu>
+<tu tuid="342">
+<tuv xml:lang="EN-US">
+<seg>Products and set theory templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны произведений и символов теории множеств</seg>
+</tuv>
+</tu>
+<tu tuid="343">
+<tuv xml:lang="EN-US">
+<seg>Matrix templates</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны матриц</seg>
+</tuv>
+</tu>
+<tu tuid="344">
+<tuv xml:lang="EN-US">
+<seg>Relational symbols</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Символы отношений</seg>
+</tuv>
+</tu>
+<tu tuid="345">
+<tuv xml:lang="EN-US">
+<seg>Spaces and ellipses</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пробелы и многоточия</seg>
+</tuv>
+</tu>
+<tu tuid="346">
+<tuv xml:lang="EN-US">
+<seg>Embellishments</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Надстрочные знаки</seg>
+</tuv>
+</tu>
+<tu tuid="347">
+<tuv xml:lang="EN-US">
+<seg>Operator symbols</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Операторы</seg>
+</tuv>
+</tu>
+<tu tuid="348">
+<tuv xml:lang="EN-US">
+<seg>Arrow symbols</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелки</seg>
+</tuv>
+</tu>
+<tu tuid="349">
+<tuv xml:lang="EN-US">
+<seg>Logical symbols</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Логические символы</seg>
+</tuv>
+</tu>
+<tu tuid="350">
+<tuv xml:lang="EN-US">
+<seg>Set theory symbols</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Символы теории множеств</seg>
+</tuv>
+</tu>
+<tu tuid="351">
+<tuv xml:lang="EN-US">
+<seg>Miscellaneous symbols</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Разные символы</seg>
+</tuv>
+</tu>
+<tu tuid="352">
+<tuv xml:lang="EN-US">
+<seg>Greek characters (lowercase)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Греческие буквы (строчные)</seg>
+</tuv>
+</tu>
+<tu tuid="353">
+<tuv xml:lang="EN-US">
+<seg>Greek characters (uppercase)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Греческие буквы (прописные)</seg>
+</tuv>
+</tu>
+<tu tuid="354">
+<tuv xml:lang="EN-US">
+<seg>No embellishment</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Надстрочные знаки отсутствуют</seg>
+</tuv>
+</tu>
+<tu tuid="355">
+<tuv xml:lang="EN-US">
+<seg>Single dot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Точка</seg>
+</tuv>
+</tu>
+<tu tuid="356">
+<tuv xml:lang="EN-US">
+<seg>Double dot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Две точки</seg>
+</tuv>
+</tu>
+<tu tuid="357">
+<tuv xml:lang="EN-US">
+<seg>Triple dot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Три точки</seg>
+</tuv>
+</tu>
+<tu tuid="358">
+<tuv xml:lang="EN-US">
+<seg>Prime</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Штрих</seg>
+</tuv>
+</tu>
+<tu tuid="359">
+<tuv xml:lang="EN-US">
+<seg>Double prime</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Два штриха</seg>
+</tuv>
+</tu>
+<tu tuid="360">
+<tuv xml:lang="EN-US">
+<seg>Back prime</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обратный штрих</seg>
+</tuv>
+</tu>
+<tu tuid="361">
+<tuv xml:lang="EN-US">
+<seg>Tilde</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тильда</seg>
+</tuv>
+</tu>
+<tu tuid="362">
+<tuv xml:lang="EN-US">
+<seg>Hat</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Крышка</seg>
+</tuv>
+</tu>
+<tu tuid="363">
+<tuv xml:lang="EN-US">
+<seg>Slash</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Косая черта</seg>
+</tuv>
+</tu>
+<tu tuid="364">
+<tuv xml:lang="EN-US">
+<seg>Right arrow</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вправо</seg>
+</tuv>
+</tu>
+<tu tuid="365">
+<tuv xml:lang="EN-US">
+<seg>Left arrow</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка влево</seg>
+</tuv>
+</tu>
+<tu tuid="366">
+<tuv xml:lang="EN-US">
+<seg>Left and right arrow</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двунаправленная стрелка</seg>
+</tuv>
+</tu>
+<tu tuid="367">
+<tuv xml:lang="EN-US">
+<seg>Right harpoon</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Гарпун вправо</seg>
+</tuv>
+</tu>
+<tu tuid="368">
+<tuv xml:lang="EN-US">
+<seg>Left harpoon</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Гарпун влево</seg>
+</tuv>
+</tu>
+<tu tuid="369">
+<tuv xml:lang="EN-US">
+<seg>Strike-through</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Зачеркивание</seg>
+</tuv>
+</tu>
+<tu tuid="370">
+<tuv xml:lang="EN-US">
+<seg>Over-bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Черта</seg>
+</tuv>
+</tu>
+<tu tuid="371">
+<tuv xml:lang="EN-US">
+<seg>Triple prime</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Три штриха</seg>
+</tuv>
+</tu>
+<tu tuid="372">
+<tuv xml:lang="EN-US">
+<seg>Frown</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дужка вверх</seg>
+</tuv>
+</tu>
+<tu tuid="373">
+<tuv xml:lang="EN-US">
+<seg>Smile</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дужка вниз</seg>
+</tuv>
+</tu>
+<tu tuid="374">
+<tuv xml:lang="EN-US">
+<seg>Zero space</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нулевой пробел</seg>
+</tuv>
+</tu>
+<tu tuid="375">
+<tuv xml:lang="EN-US">
+<seg>Thin space (one sixth of an em)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Короткий пробел ( шестая часть длинного пробела)</seg>
+</tuv>
+</tu>
+<tu tuid="376">
+<tuv xml:lang="EN-US">
+<seg>Thick space (one third of an em)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Средний пробел (треть длинного пробела)</seg>
+</tuv>
+</tu>
+<tu tuid="377">
+<tuv xml:lang="EN-US">
+<seg>Em-space</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Длинный пробел</seg>
+</tuv>
+</tu>
+<tu tuid="378">
+<tuv xml:lang="EN-US">
+<seg>inner</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>внутренний</seg>
+</tuv>
+</tu>
+<tu tuid="379">
+<tuv xml:lang="EN-US">
+<seg>1 pt space</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пробел 1 пт</seg>
+</tuv>
+</tu>
+<tu tuid="380">
+<tuv xml:lang="EN-US">
+<seg>Exclamation point</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Восклицательный знак</seg>
+</tuv>
+</tu>
+<tu tuid="381">
+<tuv xml:lang="EN-US">
+<seg>For all</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Для каждого</seg>
+</tuv>
+</tu>
+<tu tuid="382">
+<tuv xml:lang="EN-US">
+<seg>Number sign</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Знак номера</seg>
+</tuv>
+</tu>
+<tu tuid="383">
+<tuv xml:lang="EN-US">
+<seg>There exists</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Существует</seg>
+</tuv>
+</tu>
+<tu tuid="384">
+<tuv xml:lang="EN-US">
+<seg>Percent</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Процент</seg>
+</tuv>
+</tu>
+<tu tuid="385">
+<tuv xml:lang="EN-US">
+<seg>Ampersand</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Амперсанд</seg>
+</tuv>
+</tu>
+<tu tuid="386">
+<tuv xml:lang="EN-US">
+<seg>Such that</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Такой, что</seg>
+</tuv>
+</tu>
+<tu tuid="387">
+<tuv xml:lang="EN-US">
+<seg>Right parenthesis</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрывающая круглая скобка</seg>
+</tuv>
+</tu>
+<tu tuid="388">
+<tuv xml:lang="EN-US">
+<seg>Mathematical asterisk</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Математическая звездочка</seg>
+</tuv>
+</tu>
+<tu tuid="389">
+<tuv xml:lang="EN-US">
+<seg>Plus</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Плюс</seg>
+</tuv>
+</tu>
+<tu tuid="390">
+<tuv xml:lang="EN-US">
+<seg>Minus</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Минус</seg>
+</tuv>
+</tu>
+<tu tuid="391">
+<tuv xml:lang="EN-US">
+<seg>Period</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Точка</seg>
+</tuv>
+</tu>
+<tu tuid="392">
+<tuv xml:lang="EN-US">
+<seg>Zero</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нуль</seg>
+</tuv>
+</tu>
+<tu tuid="393">
+<tuv xml:lang="EN-US">
+<seg>One</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Один</seg>
+</tuv>
+</tu>
+<tu tuid="394">
+<tuv xml:lang="EN-US">
+<seg>Two</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Два</seg>
+</tuv>
+</tu>
+<tu tuid="395">
+<tuv xml:lang="EN-US">
+<seg>Three</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Три</seg>
+</tuv>
+</tu>
+<tu tuid="396">
+<tuv xml:lang="EN-US">
+<seg>Four</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Четыре</seg>
+</tuv>
+</tu>
+<tu tuid="397">
+<tuv xml:lang="EN-US">
+<seg>Five</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пять</seg>
+</tuv>
+</tu>
+<tu tuid="398">
+<tuv xml:lang="EN-US">
+<seg>Six</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шесть</seg>
+</tuv>
+</tu>
+<tu tuid="399">
+<tuv xml:lang="EN-US">
+<seg>Seven</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Семь</seg>
+</tuv>
+</tu>
+<tu tuid="400">
+<tuv xml:lang="EN-US">
+<seg>Eight</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Восемь</seg>
+</tuv>
+</tu>
+<tu tuid="401">
+<tuv xml:lang="EN-US">
+<seg>Nine</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Девять</seg>
+</tuv>
+</tu>
+<tu tuid="402">
+<tuv xml:lang="EN-US">
+<seg>Colon</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двоеточие</seg>
+</tuv>
+</tu>
+<tu tuid="403">
+<tuv xml:lang="EN-US">
+<seg>Semicolon</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Точка с запятой</seg>
+</tuv>
+</tu>
+<tu tuid="404">
+<tuv xml:lang="EN-US">
+<seg>Less than</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Меньше</seg>
+</tuv>
+</tu>
+<tu tuid="405">
+<tuv xml:lang="EN-US">
+<seg>Equal to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Равно</seg>
+</tuv>
+</tu>
+<tu tuid="406">
+<tuv xml:lang="EN-US">
+<seg>Greater than</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Больше</seg>
+</tuv>
+</tu>
+<tu tuid="407">
+<tuv xml:lang="EN-US">
+<seg>Question mark</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вопросительный знак</seg>
+</tuv>
+</tu>
+<tu tuid="408">
+<tuv xml:lang="EN-US">
+<seg>Congruent to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Конгруэнтно</seg>
+</tuv>
+</tu>
+<tu tuid="409">
+<tuv xml:lang="EN-US">
+<seg>Alpha (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Альфа (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="410">
+<tuv xml:lang="EN-US">
+<seg>Beta (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Бета (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="411">
+<tuv xml:lang="EN-US">
+<seg>Chi (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Хи (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="412">
+<tuv xml:lang="EN-US">
+<seg>Delta (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дельта (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="413">
+<tuv xml:lang="EN-US">
+<seg>Epsilon (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Эпсилон (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="414">
+<tuv xml:lang="EN-US">
+<seg>Phi (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фи (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="415">
+<tuv xml:lang="EN-US">
+<seg>Gamma (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Гамма (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="416">
+<tuv xml:lang="EN-US">
+<seg>Eta (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Эта (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="417">
+<tuv xml:lang="EN-US">
+<seg>Iota (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Йота (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="418">
+<tuv xml:lang="EN-US">
+<seg>Alternate theta (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Альтернативная тета (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="419">
+<tuv xml:lang="EN-US">
+<seg>Kappa (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Каппа (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="420">
+<tuv xml:lang="EN-US">
+<seg>Lambda (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ламбда (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="421">
+<tuv xml:lang="EN-US">
+<seg>Mu (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Мю (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="422">
+<tuv xml:lang="EN-US">
+<seg>Nu (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ню (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="423">
+<tuv xml:lang="EN-US">
+<seg>Omicron (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Омикрон (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="424">
+<tuv xml:lang="EN-US">
+<seg>Pi (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пи (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="425">
+<tuv xml:lang="EN-US">
+<seg>Theta (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тета (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="426">
+<tuv xml:lang="EN-US">
+<seg>Rho (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ро (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="427">
+<tuv xml:lang="EN-US">
+<seg>Sigma (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сигма (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="428">
+<tuv xml:lang="EN-US">
+<seg>Tau (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тау (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="429">
+<tuv xml:lang="EN-US">
+<seg>Upsilon (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ипсилон (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="430">
+<tuv xml:lang="EN-US">
+<seg>Alternate sigma (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Альтернативная сигма (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="431">
+<tuv xml:lang="EN-US">
+<seg>Omega (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Омега (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="432">
+<tuv xml:lang="EN-US">
+<seg>Xi (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Кси (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="433">
+<tuv xml:lang="EN-US">
+<seg>Psi (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пси (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="434">
+<tuv xml:lang="EN-US">
+<seg>Zeta (upper case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дзета (прописная)</seg>
+</tuv>
+</tu>
+<tu tuid="435">
+<tuv xml:lang="EN-US">
+<seg>Left bracket</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открывающая квадратная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="436">
+<tuv xml:lang="EN-US">
+<seg>Therefore</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Следовательно</seg>
+</tuv>
+</tu>
+<tu tuid="437">
+<tuv xml:lang="EN-US">
+<seg>Right bracket</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрывающая квадратная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="438">
+<tuv xml:lang="EN-US">
+<seg>Perpendicular to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Перпендикулярно</seg>
+</tuv>
+</tu>
+<tu tuid="439">
+<tuv xml:lang="EN-US">
+<seg>Underscore</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Подчерк</seg>
+</tuv>
+</tu>
+<tu tuid="440">
+<tuv xml:lang="EN-US">
+<seg>Alpha (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Альфа (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="441">
+<tuv xml:lang="EN-US">
+<seg>Beta (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Бета (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="442">
+<tuv xml:lang="EN-US">
+<seg>Chi (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Хи (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="443">
+<tuv xml:lang="EN-US">
+<seg>Delta (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дельта (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="444">
+<tuv xml:lang="EN-US">
+<seg>Epsilon (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Эпсилон (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="445">
+<tuv xml:lang="EN-US">
+<seg>Phi (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фи (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="446">
+<tuv xml:lang="EN-US">
+<seg>Gamma (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Гамма (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="447">
+<tuv xml:lang="EN-US">
+<seg>Eta (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Эта (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="448">
+<tuv xml:lang="EN-US">
+<seg>Iota (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Йота (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="449">
+<tuv xml:lang="EN-US">
+<seg>Alternate phi (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Альтернативная фи (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="450">
+<tuv xml:lang="EN-US">
+<seg>Kappa (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Каппа (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="451">
+<tuv xml:lang="EN-US">
+<seg>Lambda (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ламбда (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="452">
+<tuv xml:lang="EN-US">
+<seg>Mu (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Мю (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="453">
+<tuv xml:lang="EN-US">
+<seg>Nu (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ню (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="454">
+<tuv xml:lang="EN-US">
+<seg>Omicron (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Омикрон (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="455">
+<tuv xml:lang="EN-US">
+<seg>Pi (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пи (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="456">
+<tuv xml:lang="EN-US">
+<seg>Theta (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тета (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="457">
+<tuv xml:lang="EN-US">
+<seg>Rho (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ро (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="458">
+<tuv xml:lang="EN-US">
+<seg>Sigma (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сигма (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="459">
+<tuv xml:lang="EN-US">
+<seg>Tau (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тау (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="460">
+<tuv xml:lang="EN-US">
+<seg>Upsilon (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ипсилон (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="461">
+<tuv xml:lang="EN-US">
+<seg>Alternate omega (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Альтернативная омега (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="462">
+<tuv xml:lang="EN-US">
+<seg>Omega (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Омега (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="463">
+<tuv xml:lang="EN-US">
+<seg>Xi (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Кси (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="464">
+<tuv xml:lang="EN-US">
+<seg>Psi (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пси (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="465">
+<tuv xml:lang="EN-US">
+<seg>Zeta (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дзета (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="466">
+<tuv xml:lang="EN-US">
+<seg>Left brace</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открывающая фигурная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="467">
+<tuv xml:lang="EN-US">
+<seg>Bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Черта</seg>
+</tuv>
+</tu>
+<tu tuid="468">
+<tuv xml:lang="EN-US">
+<seg>Right brace</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрывающая фигурная скобка</seg>
+</tuv>
+</tu>
+<tu tuid="469">
+<tuv xml:lang="EN-US">
+<seg>Similar to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Подобно</seg>
+</tuv>
+</tu>
+<tu tuid="470">
+<tuv xml:lang="EN-US">
+<seg>Alternate upsilon (lower case)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Альтернативный ипсилон (строчная)</seg>
+</tuv>
+</tu>
+<tu tuid="471">
+<tuv xml:lang="EN-US">
+<seg>Minute</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Минута</seg>
+</tuv>
+</tu>
+<tu tuid="472">
+<tuv xml:lang="EN-US">
+<seg>Less than or equal to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Меньше или равно</seg>
+</tuv>
+</tu>
+<tu tuid="473">
+<tuv xml:lang="EN-US">
+<seg>Slash fraction</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дробь с косой чертой</seg>
+</tuv>
+</tu>
+<tu tuid="474">
+<tuv xml:lang="EN-US">
+<seg>Infinity</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Бесконечность</seg>
+</tuv>
+</tu>
+<tu tuid="475">
+<tuv xml:lang="EN-US">
+<seg>Florin</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Флорин</seg>
+</tuv>
+</tu>
+<tu tuid="476">
+<tuv xml:lang="EN-US">
+<seg>Club</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Трефы</seg>
+</tuv>
+</tu>
+<tu tuid="477">
+<tuv xml:lang="EN-US">
+<seg>Diamond</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Бубны</seg>
+</tuv>
+</tu>
+<tu tuid="478">
+<tuv xml:lang="EN-US">
+<seg>Heart</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Червы</seg>
+</tuv>
+</tu>
+<tu tuid="479">
+<tuv xml:lang="EN-US">
+<seg>Arrow (both directions)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двусторонняя горизонтальная стрелка</seg>
+</tuv>
+</tu>
+<tu tuid="480">
+<tuv xml:lang="EN-US">
+<seg>Arrow left</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка влево</seg>
+</tuv>
+</tu>
+<tu tuid="481">
+<tuv xml:lang="EN-US">
+<seg>Arrow up</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вверх</seg>
+</tuv>
+</tu>
+<tu tuid="482">
+<tuv xml:lang="EN-US">
+<seg>Arrow right</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вправо</seg>
+</tuv>
+</tu>
+<tu tuid="483">
+<tuv xml:lang="EN-US">
+<seg>Arrow down</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стрелка вниз</seg>
+</tuv>
+</tu>
+<tu tuid="484">
+<tuv xml:lang="EN-US">
+<seg>Degree</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Градус</seg>
+</tuv>
+</tu>
+<tu tuid="485">
+<tuv xml:lang="EN-US">
+<seg>Plus or minus</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Плюс-минус</seg>
+</tuv>
+</tu>
+<tu tuid="486">
+<tuv xml:lang="EN-US">
+<seg>Second</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Секунда</seg>
+</tuv>
+</tu>
+<tu tuid="487">
+<tuv xml:lang="EN-US">
+<seg>Greater than or equal to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Больше или равно</seg>
+</tuv>
+</tu>
+<tu tuid="488">
+<tuv xml:lang="EN-US">
+<seg>Multiply</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Умножить</seg>
+</tuv>
+</tu>
+<tu tuid="489">
+<tuv xml:lang="EN-US">
+<seg>Proportional to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пропорционально</seg>
+</tuv>
+</tu>
+<tu tuid="490">
+<tuv xml:lang="EN-US">
+<seg>Partial differential</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Частный дифференциал</seg>
+</tuv>
+</tu>
+<tu tuid="491">
+<tuv xml:lang="EN-US">
+<seg>Divide</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Разделить</seg>
+</tuv>
+</tu>
+<tu tuid="492">
+<tuv xml:lang="EN-US">
+<seg>Not equal to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не равно</seg>
+</tuv>
+</tu>
+<tu tuid="493">
+<tuv xml:lang="EN-US">
+<seg>Equivalence</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Тождественно</seg>
+</tuv>
+</tu>
+<tu tuid="494">
+<tuv xml:lang="EN-US">
+<seg>Approximately equal to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Приближенно равно</seg>
+</tuv>
+</tu>
+<tu tuid="495">
+<tuv xml:lang="EN-US">
+<seg>Carriage return</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Возврат каретки</seg>
+</tuv>
+</tu>
+<tu tuid="496">
+<tuv xml:lang="EN-US">
+<seg>Aleph</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Алеф</seg>
+</tuv>
+</tu>
+<tu tuid="497">
+<tuv xml:lang="EN-US">
+<seg>Fraktur I</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Готическая ''I''</seg>
+</tuv>
+</tu>
+<tu tuid="498">
+<tuv xml:lang="EN-US">
+<seg>Fraktur R</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Готическая ''R''</seg>
+</tuv>
+</tu>
+<tu tuid="499">
+<tuv xml:lang="EN-US">
+<seg>Weierstrass elliptic symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Эллиптический символ Вейерштрасса</seg>
+</tuv>
+</tu>
+<tu tuid="500">
+<tuv xml:lang="EN-US">
+<seg>Circle multiply</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Прямое произведение</seg>
+</tuv>
+</tu>
+<tu tuid="501">
+<tuv xml:lang="EN-US">
+<seg>Circle plus</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Прямая сумма</seg>
+</tuv>
+</tu>
+<tu tuid="502">
+<tuv xml:lang="EN-US">
+<seg>Empty set</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пустое множество</seg>
+</tuv>
+</tu>
+<tu tuid="503">
+<tuv xml:lang="EN-US">
+<seg>Intersection</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Пересечение</seg>
+</tuv>
+</tu>
+<tu tuid="504">
+<tuv xml:lang="EN-US">
+<seg>Proper superset</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Является множеством</seg>
+</tuv>
+</tu>
+<tu tuid="505">
+<tuv xml:lang="EN-US">
+<seg>Superset</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Множество</seg>
+</tuv>
+</tu>
+<tu tuid="506">
+<tuv xml:lang="EN-US">
+<seg>Not subset</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не является подмножеством</seg>
+</tuv>
+</tu>
+<tu tuid="507">
+<tuv xml:lang="EN-US">
+<seg>Proper subset</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Является подмножеством</seg>
+</tuv>
+</tu>
+<tu tuid="508">
+<tuv xml:lang="EN-US">
+<seg>Subset</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Подмножество</seg>
+</tuv>
+</tu>
+<tu tuid="509">
+<tuv xml:lang="EN-US">
+<seg>Element of</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Принадлежит</seg>
+</tuv>
+</tu>
+<tu tuid="510">
+<tuv xml:lang="EN-US">
+<seg>Not an element of</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не принадлежит</seg>
+</tuv>
+</tu>
+<tu tuid="511">
+<tuv xml:lang="EN-US">
+<seg>Angle</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Угол</seg>
+</tuv>
+</tu>
+<tu tuid="512">
+<tuv xml:lang="EN-US">
+<seg>Gradient</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Градиент</seg>
+</tuv>
+</tu>
+<tu tuid="513">
+<tuv xml:lang="EN-US">
+<seg>Register serif</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Знак ''зарегистрировано'' с засечками</seg>
+</tuv>
+</tu>
+<tu tuid="514">
+<tuv xml:lang="EN-US">
+<seg>Copyright serif</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Знак ''авторское право'' с засечками</seg>
+</tuv>
+</tu>
+<tu tuid="515">
+<tuv xml:lang="EN-US">
+<seg>Trademark serif</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Товарный знак с засечками</seg>
+</tuv>
+</tu>
+<tu tuid="516">
+<tuv xml:lang="EN-US">
+<seg>Product</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Произведение</seg>
+</tuv>
+</tu>
+<tu tuid="517">
+<tuv xml:lang="EN-US">
+<seg>Radical</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Радикал</seg>
+</tuv>
+</tu>
+<tu tuid="518">
+<tuv xml:lang="EN-US">
+<seg>Mathematical dot</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Математическая точка</seg>
+</tuv>
+</tu>
+<tu tuid="519">
+<tuv xml:lang="EN-US">
+<seg>Logical not</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Логическое НЕ</seg>
+</tuv>
+</tu>
+<tu tuid="520">
+<tuv xml:lang="EN-US">
+<seg>Logical and</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Логическое И</seg>
+</tuv>
+</tu>
+<tu tuid="521">
+<tuv xml:lang="EN-US">
+<seg>Logical or</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Логическое ИЛИ</seg>
+</tuv>
+</tu>
+<tu tuid="522">
+<tuv xml:lang="EN-US">
+<seg>Double arrow (both directions)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная горизонтальная двунаправленная стрелка</seg>
+</tuv>
+</tu>
+<tu tuid="523">
+<tuv xml:lang="EN-US">
+<seg>Double arrow left</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная стрелка влево</seg>
+</tuv>
+</tu>
+<tu tuid="524">
+<tuv xml:lang="EN-US">
+<seg>Double arrow up</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная стрелка вверх</seg>
+</tuv>
+</tu>
+<tu tuid="525">
+<tuv xml:lang="EN-US">
+<seg>Double arrow right</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная стрелка вправо</seg>
+</tuv>
+</tu>
+<tu tuid="526">
+<tuv xml:lang="EN-US">
+<seg>Double arrow down</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная стрелка вниз</seg>
+</tuv>
+</tu>
+<tu tuid="527">
+<tuv xml:lang="EN-US">
+<seg>Lozenge</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ромб</seg>
+</tuv>
+</tu>
+<tu tuid="528">
+<tuv xml:lang="EN-US">
+<seg>Left angle</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Угол влево</seg>
+</tuv>
+</tu>
+<tu tuid="529">
+<tuv xml:lang="EN-US">
+<seg>Register sans serif</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Знак ''зарегистрировано'' без засечек</seg>
+</tuv>
+</tu>
+<tu tuid="530">
+<tuv xml:lang="EN-US">
+<seg>Copyright sans serif</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Знак ''авторское право'' без засечек</seg>
+</tuv>
+</tu>
+<tu tuid="531">
+<tuv xml:lang="EN-US">
+<seg>Trademark sans serif</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Товарный знак без засечек</seg>
+</tuv>
+</tu>
+<tu tuid="532">
+<tuv xml:lang="EN-US">
+<seg>Summation</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сумма</seg>
+</tuv>
+</tu>
+<tu tuid="533">
+<tuv xml:lang="EN-US">
+<seg>Right angle</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Угол вправо</seg>
+</tuv>
+</tu>
+<tu tuid="534">
+<tuv xml:lang="EN-US">
+<seg>Small integral</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интеграл</seg>
+</tuv>
+</tu>
+<tu tuid="535">
+<tuv xml:lang="EN-US">
+<seg>Normal subgroup</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нормальная подгруппа</seg>
+</tuv>
+</tu>
+<tu tuid="536">
+<tuv xml:lang="EN-US">
+<seg>Coproduct</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сопроизведение</seg>
+</tuv>
+</tu>
+<tu tuid="537">
+<tuv xml:lang="EN-US">
+<seg>Lambda bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ламбда с чертой</seg>
+</tuv>
+</tu>
+<tu tuid="538">
+<tuv xml:lang="EN-US">
+<seg>Ellipsis</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Многоточие</seg>
+</tuv>
+</tu>
+<tu tuid="539">
+<tuv xml:lang="EN-US">
+<seg>Math-axis ellipsis</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Горизонтальное многоточие</seg>
+</tuv>
+</tu>
+<tu tuid="540">
+<tuv xml:lang="EN-US">
+<seg>Vertical ellipsis</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальное многоточие</seg>
+</tuv>
+</tu>
+<tu tuid="541">
+<tuv xml:lang="EN-US">
+<seg>Up diagonal ellipsis</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диагональное многоточие вверх</seg>
+</tuv>
+</tu>
+<tu tuid="542">
+<tuv xml:lang="EN-US">
+<seg>Down diagonal ellipsis</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диагональное многоточие вниз</seg>
+</tuv>
+</tu>
+<tu tuid="543">
+<tuv xml:lang="EN-US">
+<seg>Since</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Так как</seg>
+</tuv>
+</tu>
+<tu tuid="544">
+<tuv xml:lang="EN-US">
+<seg>Union</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Объединение</seg>
+</tuv>
+</tu>
+<tu tuid="545">
+<tuv xml:lang="EN-US">
+<seg>Maps to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отобразить на</seg>
+</tuv>
+</tu>
+<tu tuid="546">
+<tuv xml:lang="EN-US">
+<seg>Arrow up and down</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальная двунаправленная стрелка</seg>
+</tuv>
+</tu>
+<tu tuid="547">
+<tuv xml:lang="EN-US">
+<seg>Double arrow up and down</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Двойная вертикальная двунаправленная стрелка</seg>
+</tuv>
+</tu>
+<tu tuid="548">
+<tuv xml:lang="EN-US">
+<seg>Follows (partial order)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Следует (частичный порядок)</seg>
+</tuv>
+</tu>
+<tu tuid="549">
+<tuv xml:lang="EN-US">
+<seg>H bar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>''h'' с чертой</seg>
+</tuv>
+</tu>
+<tu tuid="550">
+<tuv xml:lang="EN-US">
+<seg>Script ell</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Рукописная ''эль'' (лат.)</seg>
+</tuv>
+</tu>
+<tu tuid="551">
+<tuv xml:lang="EN-US">
+<seg>Minus or plus</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Минус-плюс</seg>
+</tuv>
+</tu>
+<tu tuid="552">
+<tuv xml:lang="EN-US">
+<seg>Composition</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Композиция</seg>
+</tuv>
+</tu>
+<tu tuid="553">
+<tuv xml:lang="EN-US">
+<seg>Precedes (partial order)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Предшествует (частичный порядок)</seg>
+</tuv>
+</tu>
+<tu tuid="554">
+<tuv xml:lang="EN-US">
+<seg>Can't delete this line.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается удалить данную строку.</seg>
+</tuv>
+</tu>
+<tu tuid="555">
+<tuv xml:lang="EN-US">
+<seg>Clipboard does not contain equation data.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Буфер обмена не содержит фрагменты формулы.</seg>
+</tuv>
+</tu>
+<tu tuid="556">
+<tuv xml:lang="EN-US">
+<seg>Not yet implemented.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Еще не реализовано.</seg>
+</tuv>
+</tu>
+<tu tuid="557">
+<tuv xml:lang="EN-US">
+<seg>Couldn't write to the file. The disk may be full.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается сохранить файл. Возможно, на диске не хватает места.</seg>
+</tuv>
+</tu>
+<tu tuid="558">
+<tuv xml:lang="EN-US">
+<seg>File does not contain Equation Editor data.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Файл не содержит данных редактора формул.</seg>
+</tuv>
+</tu>
+<tu tuid="559">
+<tuv xml:lang="EN-US">
+<seg>Error in value entered.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Введено неверное значение.</seg>
+</tuv>
+</tu>
+<tu tuid="560">
+<tuv xml:lang="EN-US">
+<seg>Can't Undo</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отмена невозможна</seg>
+</tuv>
+</tu>
+<tu tuid="561">
+<tuv xml:lang="EN-US">
+<seg>Spacing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интервал</seg>
+</tuv>
+</tu>
+<tu tuid="562">
+<tuv xml:lang="EN-US">
+<seg>Sizes</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Размеры</seg>
+</tuv>
+</tu>
+<tu tuid="563">
+<tuv xml:lang="EN-US">
+<seg>Greek/Symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Греческие/Символ</seg>
+</tuv>
+</tu>
+<tu tuid="564">
+<tuv xml:lang="EN-US">
+<seg>Matrix-Vector</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Матрица-вектор</seg>
+</tuv>
+</tu>
+<tu tuid="565">
+<tuv xml:lang="EN-US">
+<seg>Symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Символ</seg>
+</tuv>
+</tu>
+<tu tuid="566">
+<tuv xml:lang="EN-US">
+<seg>Templates incompatible.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шаблоны несовместимы.</seg>
+</tuv>
+</tu>
+<tu tuid="567">
+<tuv xml:lang="EN-US">
+<seg>Template must be selected.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Необходимо выбрать шаблон.</seg>
+</tuv>
+</tu>
+<tu tuid="568">
+<tuv xml:lang="EN-US">
+<seg>This equation cannot be edited as it was created by a newer version of Equation Editor.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Данная формула не может быть отредактирована, поскольку для ее создания использовалась новая версия редактора формул.</seg>
+</tuv>
+</tu>
+<tu tuid="569">
+<tuv xml:lang="EN-US">
+<seg>Can't have more than %d levels of nested templates, matrices, and/or embellishments.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Число уровней вложенности шаблонов, матриц и надстрочных знаков не может превышать %d.</seg>
+</tuv>
+</tu>
+<tu tuid="570">
+<tuv xml:lang="EN-US">
+<seg>This equation was created with MathType. Tab-stop formatting will be lost; User 1  2 styles will be converted to the Text style; User 1 &amp; 2 typesizes will be converted to the Full typesize.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Эта формула создана с помощью MathType. Табуляция будет потеряна, стили ''User 1'' и ''User 2'' преобразованы в стиль ''Текст'', размеры  ''User 1'' и ''User 2'' преобразованы в размер ''Обычный''.</seg>
+</tuv>
+</tu>
+<tu tuid="571">
+<tuv xml:lang="EN-US">
+<seg>To delete an equation, select it in your document and press the Backspace or Delete key.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Для удаления формулы выделите ее в документе и нажмите клавишу Backspace или Del.</seg>
+</tuv>
+</tu>
+<tu tuid="572">
+<tuv xml:lang="EN-US">
+<seg>The %s uses the %s%s font, which is not available: %s%s will be substituted.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>%s использует недоступный шрифт %s%s; он будет заменен шрифтом %s%s.</seg>
+</tuv>
+</tu>
+<tu tuid="573">
+<tuv xml:lang="EN-US">
+<seg>Equation Editor's MT Extra font is not available. Some characters will not display or print.\n\nRe-install Equation Editor to properly install its fonts.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Шрифт редактора формул MT Extra недоступен. Некоторые знаки не будут выведены на экран и на печать.\n\nПереустановите редактор формул, чтобы должным образом установить его шрифты.</seg>
+</tuv>
+</tu>
+<tu tuid="574">
+<tuv xml:lang="EN-US">
+<seg>The %s%s font is not available; %s%s will be substituted.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Недоступный шрифт %s%s будет заменен шрифтом %s%s.</seg>
+</tuv>
+</tu>
+<tu tuid="575">
+<tuv xml:lang="EN-US">
+<seg>Close\tCtrl+F4</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрыть\tCtrl+F4</seg>
+</tuv>
+</tu>
+<tu tuid="576">
+<tuv xml:lang="EN-US">
+<seg>Typesize must be at least 2pt and not more than 127pt.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Размер символов должен находиться в диапазоне от 2 до 127 пунктов.</seg>
+</tuv>
+</tu>
+<tu tuid="577">
+<tuv xml:lang="EN-US">
+<seg>Value cannot be a percentage.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Значение не может измеряться в процентах.</seg>
+</tuv>
+</tu>
+<tu tuid="578">
+<tuv xml:lang="EN-US">
+<seg>Value must be greater than zero.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Значение должно быть больше нуля.</seg>
+</tuv>
+</tu>
+<tu tuid="579">
+<tuv xml:lang="EN-US">
+<seg>Value must not be negative.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Значение не должно быть отрицательным.</seg>
+</tuv>
+</tu>
+<tu tuid="580">
+<tuv xml:lang="EN-US">
+<seg>%s style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>стиль %s</seg>
+</tuv>
+</tu>
+<tu tuid="581">
+<tuv xml:lang="EN-US">
+<seg>Some resources are missing from EQNEDT32.EXE.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>В файле EQNEDT32.EXE не хватает некоторых ресурсов.</seg>
+</tuv>
+</tu>
+<tu tuid="582">
+<tuv xml:lang="EN-US">
+<seg>This equation is the maximum size allowed. Please save the equation immediately. If you want to continue, you must divide it into smaller pieces.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Размер данной формулы достиг максимально допустимого значения. Сохраните формулу немедленно. Для продолжения следует разделить формулу на несколько частей.</seg>
+</tuv>
+</tu>
+<tu tuid="583">
+<tuv xml:lang="EN-US">
+<seg>equation</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>формула</seg>
+</tuv>
+</tu>
+<tu tuid="584">
+<tuv xml:lang="EN-US">
+<seg>Equation in %s</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формула в %s</seg>
+</tuv>
+</tu>
+<tu tuid="585">
+<tuv xml:lang="EN-US">
+<seg>Equation Editor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Редактор формул</seg>
+</tuv>
+</tu>
+<tu tuid="586">
+<tuv xml:lang="EN-US">
+<seg>Save changes to %s?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сохранить изменения в %s?</seg>
+</tuv>
+</tu>
+<tu tuid="587">
+<tuv xml:lang="EN-US">
+<seg>Clipboard...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Буфер обмена...</seg>
+</tuv>
+</tu>
+<tu tuid="588">
+<tuv xml:lang="EN-US">
+<seg>Control panel...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Панель управления...</seg>
+</tuv>
+</tu>
+<tu tuid="589">
+<tuv xml:lang="EN-US">
+<seg>%s is an unknown filename extension.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>%s является неизвестным расширением имени файла.</seg>
+</tuv>
+</tu>
+<tu tuid="590">
+<tuv xml:lang="EN-US">
+<seg>Exit and Return to %s</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выход и возврат в %s</seg>
+</tuv>
+</tu>
+<tu tuid="591">
+<tuv xml:lang="EN-US">
+<seg>Bold</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Полужирный</seg>
+</tuv>
+</tu>
+<tu tuid="592">
+<tuv xml:lang="EN-US">
+<seg>Italic</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Наклонный</seg>
+</tuv>
+</tu>
+<tu tuid="593">
+<tuv xml:lang="EN-US">
+<seg>Plain</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обычный</seg>
+</tuv>
+</tu>
+<tu tuid="594">
+<tuv xml:lang="EN-US">
+<seg>Your equation requires too many different fonts.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Для данной формулы требуется слишком много разных шрифтов.</seg>
+</tuv>
+</tu>
+<tu tuid="595">
+<tuv xml:lang="EN-US">
+<seg>Internal Error #%d. Contact Design Science.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Внутренняя ошибка #%d. Свяжитесь с Design Science.</seg>
+</tuv>
+</tu>
+<tu tuid="596">
+<tuv xml:lang="EN-US">
+<seg>An adequate Symbol font is not available. Some characters will not display or print.\n\nRe-install Equation Editor to properly install its fonts.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нужный шрифт Symbol недоступен.  Некоторые знаки не будут выведены на экран и на печать.\n\nПереустановите редактор формул, чтобы должным образом установить его шрифты.</seg>
+</tuv>
+</tu>
+<tu tuid="597">
+<tuv xml:lang="EN-US">
+<seg>The application could not be run, perhaps it is not installed. Use Windows Setup to install the application.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Приложение не может быть запущено. Возможно, оно не установлено. Для его установки запустите программу установки Windows.</seg>
+</tuv>
+</tu>
+<tu tuid="598">
+<tuv xml:lang="EN-US">
+<seg>Equation Editor's equation memory is running low. Close some Equation Editor windows or reduce the contents of open Equation Editor windows, perhaps by transferring them to documents.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Недостаточно памяти для работы редактора формул. Закройте ненужные окна редактора формул.</seg>
+</tuv>
+</tu>
+<tu tuid="599">
+<tuv xml:lang="EN-US">
+<seg>Couldn't read from the file.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается прочитать из файла.</seg>
+</tuv>
+</tu>
+<tu tuid="600">
+<tuv xml:lang="EN-US">
+<seg>Equation Editor Server</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сервер редактора формул</seg>
+</tuv>
+</tu>
+<tu tuid="601">
+<tuv xml:lang="EN-US">
+<seg>Word equation too large to convert.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формула слишком велика для преобразования.</seg>
+</tuv>
+</tu>
+<tu tuid="602">
+<tuv xml:lang="EN-US">
+<seg>This window contains an equation. Do you still want to close it?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Данное окно содержит формулу. Закрыть его?</seg>
+</tuv>
+</tu>
+<tu tuid="603">
+<tuv xml:lang="EN-US">
+<seg>Other (%s)...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Другой (%s)...</seg>
+</tuv>
+</tu>
+<tu tuid="604">
+<tuv xml:lang="EN-US">
+<seg>Other...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Другой...</seg>
+</tuv>
+</tu>
+<tu tuid="605">
+<tuv xml:lang="EN-US">
+<seg>Too many windows open.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открыто слишком много окон.</seg>
+</tuv>
+</tu>
+<tu tuid="606">
+<tuv xml:lang="EN-US">
+<seg>Not enough memory to open a window.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не хватает памяти для открытия окна.</seg>
+</tuv>
+</tu>
+<tu tuid="607">
+<tuv xml:lang="EN-US">
+<seg>Using tab formatting without left alignment may produce unexpected results.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Использование табуляции, когда не установлено выравнивание по левому краю, может привести к неожиданным результатам.</seg>
+</tuv>
+</tu>
+<tu tuid="608">
+<tuv xml:lang="EN-US">
+<seg>Update changes to %s?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обновить изменения в %s?</seg>
+</tuv>
+</tu>
+<tu tuid="609">
+<tuv xml:lang="EN-US">
+<seg>The zoom size must be between %d and %d.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Масштаб может принимать значения от %d до %d.</seg>
+</tuv>
+</tu>
+<tu tuid="610">
+<tuv xml:lang="EN-US">
+<seg>Style: %s</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Стиль: %s</seg>
+</tuv>
+</tu>
+<tu tuid="611">
+<tuv xml:lang="EN-US">
+<seg>Size: %s</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Размер: %s</seg>
+</tuv>
+</tu>
+<tu tuid="612">
+<tuv xml:lang="EN-US">
+<seg>Zoom: %d%%</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Масштаб: %d%%</seg>
+</tuv>
+</tu>
+<tu tuid="613">
+<tuv xml:lang="EN-US">
+<seg>Alignment symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Символ выравнивания</seg>
+</tuv>
+</tu>
+<tu tuid="614">
+<tuv xml:lang="EN-US">
+<seg>Tab symbol</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Знак табуляции</seg>
+</tuv>
+</tu>
+<tu tuid="615">
+<tuv xml:lang="EN-US">
+<seg>This equation contains elements that are not available in Equation Editor.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Данная формула содержит элементы, которые недоступны в редакторе формул.</seg>
+</tuv>
+</tu>
+<tu tuid="616">
+<tuv xml:lang="EN-US">
+<seg>Equation</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формула</seg>
+</tuv>
+</tu>
+<tu tuid="617">
+<tuv xml:lang="EN-US">
+<seg>Unable to write preferences to registry.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается записать данные в системный реестр.</seg>
+</tuv>
+</tu>
+<tu tuid="618">
+<tuv xml:lang="EN-US">
+<seg>Warning: This computer program is protected by copyright law and international treaties.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>ВНИМАНИЕ!  Данный программный продукт защищен законами об авторских</seg>
+</tuv>
+</tu>
+<tu tuid="619">
+<tuv xml:lang="EN-US">
+<seg>Unauthorized reproduction or distribution of this program, or any portion of it, may result in</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>правах и международными соглашениями. Незаконное воспроизведение или</seg>
+</tuv>
+</tu>
+<tu tuid="620">
+<tuv xml:lang="EN-US">
+<seg>severe civil and criminal penalties, and will be prosecuted to the maximum extent possible</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>распространение данной программы или любой ее части влечет гражданскую</seg>
+</tuv>
+</tu>
+<tu tuid="621">
+<tuv xml:lang="EN-US">
+<seg>under law.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>и уголовную ответственность.</seg>
+</tuv>
+</tu>
+<tu tuid="622">
+<tuv xml:lang="EN-US">
+<seg>Copyright © 1990-2000 Design Science, Inc.\nCopyright © 2000 Microsoft Corporation</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>© Design Science, Inc., 1990-2000\n© Корпорация Майкрософт, 2000</seg>
+</tuv>
+</tu>
+<tu tuid="623">
+<tuv xml:lang="EN-US">
+<seg>9,0,Arial</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>9,0,MS Sans Serif</seg>
+</tuv>
+</tu>
+<tu tuid="624">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Equation Editor\nVersion %s</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Редактор формул\nВерсия %s</seg>
+</tuv>
+</tu>
+<tu tuid="625">
+<tuv xml:lang="EN-US">
+<seg>Any</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Любой</seg>
+</tuv>
+</tu>
+<tu tuid="626">
+<tuv xml:lang="EN-US">
+<seg>Changes the size of the application window\nNot available - the window is zoomed to its maximum size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение размера окна приложения\nНедоступно - окно развернуто до размера экрана</seg>
+</tuv>
+</tu>
+<tu tuid="627">
+<tuv xml:lang="EN-US">
+<seg>Changes the position of the application window\nNot available - the window is zoomed to its maximum size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение положения окна приложения\nНедоступно - окно развернуто до размера экрана</seg>
+</tuv>
+</tu>
+<tu tuid="628">
+<tuv xml:lang="EN-US">
+<seg>Enlarges the application window to full size\nNot available - the window is zoomed to its maximum size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Развертывание окна приложения\nНедоступно - окно уже развернуто</seg>
+</tuv>
+</tu>
+<tu tuid="629">
+<tuv xml:lang="EN-US">
+<seg>Closes the Equation Editor window</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Закрытие окна редактора формул</seg>
+</tuv>
+</tu>
+<tu tuid="630">
+<tuv xml:lang="EN-US">
+<seg>Restores the application window to normal size\nNot available - the window is not maximized or minimized</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Возврат к прежнему размеру окна приложения\nНедоступно - окно ни развернуто, ни свернуто</seg>
+</tuv>
+</tu>
+<tu tuid="631">
+<tuv xml:lang="EN-US">
+<seg>Switches to another application</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Переход к другому приложению</seg>
+</tuv>
+</tu>
+<tu tuid="632">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Equation Editor Int'l DLL</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Локализованная библиотека для Microsoft Equation Editor</seg>
+</tuv>
+</tu>
+<tu tuid="633">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Equation Editor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Редактор формул Microsoft Equation</seg>
+</tuv>
+</tu>
+<tu tuid="634">
+<tuv xml:lang="EN-US">
+<seg>Company Information</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сведения об организации</seg>
+</tuv>
+</tu>
+<tu tuid="635">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to German (Germany)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - немецкий (Германия)</seg>
+</tuv>
+</tu>
+<tu tuid="636">
+<tuv xml:lang="EN-US">
+<seg>Encarta Dictionary: English (North America)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Словарь Encarta: английский (Северная Америка)</seg>
+</tuv>
+</tu>
+<tu tuid="637">
+<tuv xml:lang="EN-US">
+<seg>French (France) to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Французский (Франция) - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="638">
+<tuv xml:lang="EN-US">
+<seg>Returns current information about the specified stock ticker</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вывод текущих сведений, соответствующих указанному финансовому символу.</seg>
+</tuv>
+</tu>
+<tu tuid="639">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Denmark</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Дания</seg>
+</tuv>
+</tu>
+<tu tuid="640">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to Italian</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - итальянский</seg>
+</tuv>
+</tu>
+<tu tuid="641">
+<tuv xml:lang="EN-US">
+<seg>MSN Search U.K.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Великобритания</seg>
+</tuv>
+</tu>
+<tu tuid="642">
+<tuv xml:lang="EN-US">
+<seg>Encarta Dictionary: English (U.K.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Словарь Encarta: английский (Великобритания)</seg>
+</tuv>
+</tu>
+<tu tuid="643">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to Simplified Chinese</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - китайский (упрощенное письмо)</seg>
+</tuv>
+</tu>
+<tu tuid="644">
+<tuv xml:lang="EN-US">
+<seg>MSN Search France</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Франция</seg>
+</tuv>
+</tu>
+<tu tuid="645">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Switzerland: German</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Швейцария - немецкий</seg>
+</tuv>
+</tu>
+<tu tuid="646">
+<tuv xml:lang="EN-US">
+<seg>NineMSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Австралия</seg>
+</tuv>
+</tu>
+<tu tuid="647">
+<tuv xml:lang="EN-US">
+<seg>MSN Search is a leading search service that provides information and sites on the Internet related to a user's query.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN - это ведущая система поиска информации и веб-узлов по запросу пользователя.</seg>
+</tuv>
+</tu>
+<tu tuid="648">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Italy</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Италия</seg>
+</tuv>
+</tu>
+<tu tuid="649">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to Japanese</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - японский</seg>
+</tuv>
+</tu>
+<tu tuid="650">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Canada: French</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Канада - французский</seg>
+</tuv>
+</tu>
+<tu tuid="651">
+<tuv xml:lang="EN-US">
+<seg>Spanish to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Испанский - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="652">
+<tuv xml:lang="EN-US">
+<seg>Japanese to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Японский - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="653">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Spain</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Испания</seg>
+</tuv>
+</tu>
+<tu tuid="654">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Finland</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Финляндия</seg>
+</tuv>
+</tu>
+<tu tuid="655">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Malaysia</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Малайзия</seg>
+</tuv>
+</tu>
+<tu tuid="656">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to French (France)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - французский (Франция)</seg>
+</tuv>
+</tu>
+<tu tuid="657">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Norway</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Норвегия</seg>
+</tuv>
+</tu>
+<tu tuid="658">
+<tuv xml:lang="EN-US">
+<seg>MSN Search South Africa</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: ЮАР</seg>
+</tuv>
+</tu>
+<tu tuid="659">
+<tuv xml:lang="EN-US">
+<seg>German (Germany) to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Немецкий (Германия) - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="660">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Japan</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Япония</seg>
+</tuv>
+</tu>
+<tu tuid="661">
+<tuv xml:lang="EN-US">
+<seg>T1MSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Мексика</seg>
+</tuv>
+</tu>
+<tu tuid="662">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Belgium: Dutch</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Бельгия - нидерландский</seg>
+</tuv>
+</tu>
+<tu tuid="663">
+<tuv xml:lang="EN-US">
+<seg>MSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: США - английский</seg>
+</tuv>
+</tu>
+<tu tuid="664">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Belgium: French</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Бельгия - французский</seg>
+</tuv>
+</tu>
+<tu tuid="665">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Hong Kong</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Гонконг</seg>
+</tuv>
+</tu>
+<tu tuid="666">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Switzerland: French</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Швейцария - французский</seg>
+</tuv>
+</tu>
+<tu tuid="667">
+<tuv xml:lang="EN-US">
+<seg>Encarta Encyclopedia: English (North America)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Энциклопедия Encarta: английский (Северная Америка)</seg>
+</tuv>
+</tu>
+<tu tuid="668">
+<tuv xml:lang="EN-US">
+<seg>Simplified Chinese to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Китайский (упрощенное письмо) - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="669">
+<tuv xml:lang="EN-US">
+<seg>Italian to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Итальянский - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="670">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to Spanish</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - испанский</seg>
+</tuv>
+</tu>
+<tu tuid="671">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to Korean</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - корейский</seg>
+</tuv>
+</tu>
+<tu tuid="672">
+<tuv xml:lang="EN-US">
+<seg>Encarta Encyclopedia: English (U.K.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Энциклопедия Encarta: английский (Великобритания)</seg>
+</tuv>
+</tu>
+<tu tuid="673">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Singapore</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Сингапур</seg>
+</tuv>
+</tu>
+<tu tuid="674">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Netherlands</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Нидерланды</seg>
+</tuv>
+</tu>
+<tu tuid="675">
+<tuv xml:lang="EN-US">
+<seg>Traditional Chinese to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Китайский (традиционное письмо) - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="676">
+<tuv xml:lang="EN-US">
+<seg>Encarta Dictionary: French</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Словарь Encarta: французский</seg>
+</tuv>
+</tu>
+<tu tuid="677">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Sweden</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Швеция</seg>
+</tuv>
+</tu>
+<tu tuid="678">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Canada</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Канада</seg>
+</tuv>
+</tu>
+<tu tuid="679">
+<tuv xml:lang="EN-US">
+<seg>Dictionary: Korean</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Словарь: корейский</seg>
+</tuv>
+</tu>
+<tu tuid="680">
+<tuv xml:lang="EN-US">
+<seg>YupiMSN Search U.S.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: США - испанский</seg>
+</tuv>
+</tu>
+<tu tuid="681">
+<tuv xml:lang="EN-US">
+<seg>Korean to English (U.S.)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Корейский - английский (США)</seg>
+</tuv>
+</tu>
+<tu tuid="682">
+<tuv xml:lang="EN-US">
+<seg>Encarta Encyclopedia: French (France)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Энциклопедия Encarta: французский (Франция)</seg>
+</tuv>
+</tu>
+<tu tuid="683">
+<tuv xml:lang="EN-US">
+<seg>Encarta Encyclopedia: German</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Энциклопедия Encarta: немецкий</seg>
+</tuv>
+</tu>
+<tu tuid="684">
+<tuv xml:lang="EN-US">
+<seg>XtraMSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Новая Зеландия</seg>
+</tuv>
+</tu>
+<tu tuid="685">
+<tuv xml:lang="EN-US">
+<seg>Dictionary: German</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Словарь: немецкий</seg>
+</tuv>
+</tu>
+<tu tuid="686">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Austria</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Австрия</seg>
+</tuv>
+</tu>
+<tu tuid="687">
+<tuv xml:lang="EN-US">
+<seg>YupiMSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Латинская Америка</seg>
+</tuv>
+</tu>
+<tu tuid="688">
+<tuv xml:lang="EN-US">
+<seg>English (U.S.) to Traditional Chinese</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Английский (США) - китайский (традиционное письмо)</seg>
+</tuv>
+</tu>
+<tu tuid="689">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Korea</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Корея</seg>
+</tuv>
+</tu>
+<tu tuid="690">
+<tuv xml:lang="EN-US">
+<seg>Dictionary: Japanese</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Словарь: японский</seg>
+</tuv>
+</tu>
+<tu tuid="691">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Taiwan</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Тайвань</seg>
+</tuv>
+</tu>
+<tu tuid="692">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Brazil</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Бразилия</seg>
+</tuv>
+</tu>
+<tu tuid="693">
+<tuv xml:lang="EN-US">
+<seg>Provides the latest price information, news, research, and analysis tools for stocks and funds.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Последние сведения о ценах, новости и справочные материалы с возможностью анализа биржевой информации.</seg>
+</tuv>
+</tu>
+<tu tuid="694">
+<tuv xml:lang="EN-US">
+<seg>MSN Search India</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Индия</seg>
+</tuv>
+</tu>
+<tu tuid="695">
+<tuv xml:lang="EN-US">
+<seg>MSN Search Germany</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Поиск в MSN: Германия</seg>
+</tuv>
+</tu>
+<tu tuid="696">
+<tuv xml:lang="EN-US">
+<seg>Quotes supplied by</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки от</seg>
+</tuv>
+</tu>
+<tu tuid="697">
+<tuv xml:lang="EN-US">
+<seg>Day's Low</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дневной минимум</seg>
+</tuv>
+</tu>
+<tu tuid="698">
+<tuv xml:lang="EN-US">
+<seg>Change</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение</seg>
+</tuv>
+</tu>
+<tu tuid="699">
+<tuv xml:lang="EN-US">
+<seg>Charts</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диаграммы</seg>
+</tuv>
+</tu>
+<tu tuid="700">
+<tuv xml:lang="EN-US">
+<seg>One Year Chart on MSN Money</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диаграмма за 1 год на MSN Money</seg>
+</tuv>
+</tu>
+<tu tuid="701">
+<tuv xml:lang="EN-US">
+<seg>Five Year Chart on MSN Money</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диаграмма за 5 лет на MSN Money</seg>
+</tuv>
+</tu>
+<tu tuid="702">
+<tuv xml:lang="EN-US">
+<seg>Last</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Последняя</seg>
+</tuv>
+</tu>
+<tu tuid="703">
+<tuv xml:lang="EN-US">
+<seg>Day's High</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дневной максимум</seg>
+</tuv>
+</tu>
+<tu tuid="704">
+<tuv xml:lang="EN-US">
+<seg>5 year</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>5 лет</seg>
+</tuv>
+</tu>
+<tu tuid="705">
+<tuv xml:lang="EN-US">
+<seg>Quotes delayed at least 20 min</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки, задержанные не менее чем на 20 минут</seg>
+</tuv>
+</tu>
+<tu tuid="706">
+<tuv xml:lang="EN-US">
+<seg>Financial data in |0</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Финансовые данные в |0</seg>
+</tuv>
+</tu>
+<tu tuid="707">
+<tuv xml:lang="EN-US">
+<seg>Three Year Chart on MSN Money</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диаграмма за 3 года на MSN Money</seg>
+</tuv>
+</tu>
+<tu tuid="708">
+<tuv xml:lang="EN-US">
+<seg>% Change</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Изменение, %</seg>
+</tuv>
+</tu>
+<tu tuid="709">
+<tuv xml:lang="EN-US">
+<seg>More on MSN Money:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Дополнительно о MSN Money:</seg>
+</tuv>
+</tu>
+<tu tuid="710">
+<tuv xml:lang="EN-US">
+<seg>Top Holdings</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Основные держатели</seg>
+</tuv>
+</tu>
+<tu tuid="711">
+<tuv xml:lang="EN-US">
+<seg>Chart</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Диаграмма</seg>
+</tuv>
+</tu>
+<tu tuid="712">
+<tuv xml:lang="EN-US">
+<seg>Previous Close</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Последняя заключительная</seg>
+</tuv>
+</tu>
+<tu tuid="713">
+<tuv xml:lang="EN-US">
+<seg>Detailed Quote</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Подробные котировки</seg>
+</tuv>
+</tu>
+<tu tuid="714">
+<tuv xml:lang="EN-US">
+<seg>Stock Quotes</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций</seg>
+</tuv>
+</tu>
+<tu tuid="715">
+<tuv xml:lang="EN-US">
+<seg>1 year</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>1 год</seg>
+</tuv>
+</tu>
+<tu tuid="716">
+<tuv xml:lang="EN-US">
+<seg>Fund Facts</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Биржевые сведения</seg>
+</tuv>
+</tu>
+<tu tuid="717">
+<tuv xml:lang="EN-US">
+<seg>Terms of Use</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Условия использования</seg>
+</tuv>
+</tu>
+<tu tuid="718">
+<tuv xml:lang="EN-US">
+<seg>Net Asset Value</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Чистая стоимость актива</seg>
+</tuv>
+</tu>
+<tu tuid="719">
+<tuv xml:lang="EN-US">
+<seg>Detailed Stock Quote on MSN Money</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Подробные котировки акций на MSN Money</seg>
+</tuv>
+</tu>
+<tu tuid="720">
+<tuv xml:lang="EN-US">
+<seg>Volume</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Объем</seg>
+</tuv>
+</tu>
+<tu tuid="721">
+<tuv xml:lang="EN-US">
+<seg>3 year</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>3 года</seg>
+</tuv>
+</tu>
+<tu tuid="722">
+<tuv xml:lang="EN-US">
+<seg>Look up definitions and spellings quickly using Microsoft Encarta Dictionary.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Быстрый поиск определений и правильного написания слов в словаре Microsoft Encarta.</seg>
+</tuv>
+</tu>
+<tu tuid="723">
+<tuv xml:lang="EN-US">
+<seg>Provides a variety of useful research and reference sources.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Предоставляет доступ до различных полезных информационных и справочных источников.</seg>
+</tuv>
+</tu>
+<tu tuid="724">
+<tuv xml:lang="EN-US">
+<seg>Find up-to-date information, thousands of articles, and rich multimedia with Microsoft Encarta Encyclopedia.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Энциклопедия Microsoft Encarta содержит тысячи иллюстрированных статей, наполненных полезными сведениями.</seg>
+</tuv>
+</tu>
+<tu tuid="725">
+<tuv xml:lang="EN-US">
+<seg>Popular '|0' Topics</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Популярные разделы про ''|0''</seg>
+</tuv>
+</tu>
+<tu tuid="726">
+<tuv xml:lang="EN-US">
+<seg>Article Outline</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Границы статьи</seg>
+</tuv>
+</tu>
+<tu tuid="727">
+<tuv xml:lang="EN-US">
+<seg>View all results on MSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Просмотр всех результатов поиска в MSN</seg>
+</tuv>
+</tu>
+<tu tuid="728">
+<tuv xml:lang="EN-US">
+<seg>Look up definitions and spellings quickly using the dictionary.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Быстрый поиск определений и правильного написания слов в словаре.</seg>
+</tuv>
+</tu>
+<tu tuid="729">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Office Online Services</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Интерактивные службы Microsoft Office</seg>
+</tuv>
+</tu>
+<tu tuid="730">
+<tuv xml:lang="EN-US">
+<seg>Encarta Encyclopedia: Japanese</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Энциклопедия Encarta: японский</seg>
+</tuv>
+</tu>
+<tu tuid="731">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: США</seg>
+</tuv>
+</tu>
+<tu tuid="732">
+<tuv xml:lang="EN-US">
+<seg>eLibrary is a comprehensive, international digital archive of more than 13 million documents from over 2000 of the world's top publications.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>eLibrary - это всеобъемлющий международный цифровой архив, содержащий более 13 миллионов документов из более чем 2000 ведущих мировых публикаций.</seg>
+</tuv>
+</tu>
+<tu tuid="733">
+<tuv xml:lang="EN-US">
+<seg>Company reports providing: corporate chronologies, news, industry comparison, and corporate overviews.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отчеты организации: корпоративная хронология, новости, положение в индустрии, корпоративные обзоры.</seg>
+</tuv>
+</tu>
+<tu tuid="734">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Canada</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Канада</seg>
+</tuv>
+</tu>
+<tu tuid="735">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Germany</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Германия</seg>
+</tuv>
+</tu>
+<tu tuid="736">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes France</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Франция</seg>
+</tuv>
+</tu>
+<tu tuid="737">
+<tuv xml:lang="EN-US">
+<seg>Quick and easy translation of Microsoft Office documents from 13 Asian and European languages.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Быстрый и простой перевод документов Microsoft Office с 13 азиатских и европейских языков.</seg>
+</tuv>
+</tu>
+<tu tuid="738">
+<tuv xml:lang="EN-US">
+<seg>A research tool from Factiva, a Dow Jones amp; Reuters company. Search Factiva's world-class, premium news and business content, including newspapers, newswires, magazines, and TV and radio transcripts. Get unparalleled reach to follow the events that drive your most important business decisions.  You can access the world's best collection of current and archived global news, which is available in 22 languages from 118 countries.  With Factiva, you get comprehensive and current news on the companies, industries and business topics important to you.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Справочное средство от Factiva, компании Dow Jones &amp;amp; Reuters. Factiva предоставляет доступ к новостям и бизнес-информации высшего класса, включая материалы газет и журналов, а также расшифровки радио- и телепередач. Вы всегда сможете быть в курсе событий, которые влияют на принятие самых важных решений. Вы получаете доступ к богатейшей подборке актуальных и архивных новостей, поступающих из 188 стран на 22 языках. Factiva обеспечит вас всеми необходимыми новостями о компаниях, промышленности и бизнесе.</seg>
+</tuv>
+</tu>
+<tu tuid="739">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Japan</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Япония</seg>
+</tuv>
+</tu>
+<tu tuid="740">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Netherlands</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Нидерланды</seg>
+</tuv>
+</tu>
+<tu tuid="741">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Italian</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Италия</seg>
+</tuv>
+</tu>
+<tu tuid="742">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Australia</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Австралия</seg>
+</tuv>
+</tu>
+<tu tuid="743">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Spain</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Испания</seg>
+</tuv>
+</tu>
+<tu tuid="744">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes Sweden</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Швеция</seg>
+</tuv>
+</tu>
+<tu tuid="745">
+<tuv xml:lang="EN-US">
+<seg>Encarta Encyclopedia: French (Canada)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Энциклопедия Encarta: французский (Канада)</seg>
+</tuv>
+</tu>
+<tu tuid="746">
+<tuv xml:lang="EN-US">
+<seg>MSN Money Stock Quotes U.K.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировки акций на MSN Money: Великобритания</seg>
+</tuv>
+</tu>
+<tu tuid="747">
+<tuv xml:lang="EN-US">
+<seg>Insert Price</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Добавить цену</seg>
+</tuv>
+</tu>
+<tu tuid="748">
+<tuv xml:lang="EN-US">
+<seg>Fund data provided by</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Биржевые сведения предоставлены</seg>
+</tuv>
+</tu>
+<tu tuid="749">
+<tuv xml:lang="EN-US">
+<seg>(c) 2003. All rights reserved.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>(c) 2003. Все права защищены.</seg>
+</tuv>
+</tu>
+<tu tuid="750">
+<tuv xml:lang="EN-US">
+<seg>View all results on YupiMSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Просмотр всех результатов поиска в YupiMSN</seg>
+</tuv>
+</tu>
+<tu tuid="751">
+<tuv xml:lang="EN-US">
+<seg>View all results on T1MSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Просмотр всех результатов поиска в T1MSN</seg>
+</tuv>
+</tu>
+<tu tuid="752">
+<tuv xml:lang="EN-US">
+<seg>View all results on XtraMSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Просмотр всех результатов поиска в XtraMSN</seg>
+</tuv>
+</tu>
+<tu tuid="753">
+<tuv xml:lang="EN-US">
+<seg>View all results on NineMSN Search</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Просмотр всех результатов поиска в NineMSN</seg>
+</tuv>
+</tu>
+<tu tuid="754">
+<tuv xml:lang="EN-US">
+<seg>Choose Contact</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выбор контакта</seg>
+</tuv>
+</tu>
+<tu tuid="755">
+<tuv xml:lang="EN-US">
+<seg>Contacts:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Контакты:</seg>
+</tuv>
+</tu>
+<tu tuid="756">
+<tuv xml:lang="EN-US">
+<seg>Insert Address</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вставка адреса</seg>
+</tuv>
+</tu>
+<tu tuid="757">
+<tuv xml:lang="EN-US">
+<seg>Entered name:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Введенное имя:</seg>
+</tuv>
+</tu>
+<tu tuid="758">
+<tuv xml:lang="EN-US">
+<seg>Use this contact:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Контакт:</seg>
+</tuv>
+</tu>
+<tu tuid="759">
+<tuv xml:lang="EN-US">
+<seg>Use this address:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Адрес:</seg>
+</tuv>
+</tu>
+<tu tuid="760">
+<tuv xml:lang="EN-US">
+<seg>Name</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Имя</seg>
+</tuv>
+</tu>
+<tu tuid="761">
+<tuv xml:lang="EN-US">
+<seg>Duplicate Contact Detected</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обнаружен повторяющийся контакт</seg>
+</tuv>
+</tu>
+<tu tuid="762">
+<tuv xml:lang="EN-US">
+<seg>The name of this contact already exists</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Контакт с таким именем уже существует</seg>
+</tuv>
+</tu>
+<tu tuid="763">
+<tuv xml:lang="EN-US">
+<seg>Would you like to</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Что следует сделать?</seg>
+</tuv>
+</tu>
+<tu tuid="764">
+<tuv xml:lang="EN-US">
+<seg>Add a new contact</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>добавить новый контакт</seg>
+</tuv>
+</tu>
+<tu tuid="765">
+<tuv xml:lang="EN-US">
+<seg>Modify the existing contact</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>изменить существующий контакт</seg>
+</tuv>
+</tu>
+<tu tuid="766">
+<tuv xml:lang="EN-US">
+<seg>John Doe</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Иван Петров</seg>
+</tuv>
+</tu>
+<tu tuid="767">
+<tuv xml:lang="EN-US">
+<seg>Driving Directions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Направления движения</seg>
+</tuv>
+</tu>
+<tu tuid="768">
+<tuv xml:lang="EN-US">
+<seg>Type or click up to two starting addresses, your destination address is referenced from the smart tag.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Введите или выберите один или два начальных адреса; конечный адрес будет определен смарт-тегом.</seg>
+</tuv>
+</tu>
+<tu tuid="769">
+<tuv xml:lang="EN-US">
+<seg>Address 2</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Адрес 2</seg>
+</tuv>
+</tu>
+<tu tuid="770">
+<tuv xml:lang="EN-US">
+<seg>Street Address</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Улица, дом</seg>
+</tuv>
+</tu>
+<tu tuid="771">
+<tuv xml:lang="EN-US">
+<seg>City</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Город</seg>
+</tuv>
+</tu>
+<tu tuid="772">
+<tuv xml:lang="EN-US">
+<seg>State</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Штат</seg>
+</tuv>
+</tu>
+<tu tuid="773">
+<tuv xml:lang="EN-US">
+<seg>Postal Code</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Индекс</seg>
+</tuv>
+</tu>
+<tu tuid="774">
+<tuv xml:lang="EN-US">
+<seg>Address 1</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Адрес 1</seg>
+</tuv>
+</tu>
+<tu tuid="775">
+<tuv xml:lang="EN-US">
+<seg>Insert Stock Price</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вставка курса акций</seg>
+</tuv>
+</tu>
+<tu tuid="776">
+<tuv xml:lang="EN-US">
+<seg>Insert an MSN stock price web query:</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вставить веб-запрос курса акций через MSN:</seg>
+</tuv>
+</tu>
+<tu tuid="777">
+<tuv xml:lang="EN-US">
+<seg>Starting at cell</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>начиная с ячейки</seg>
+</tuv>
+</tu>
+<tu tuid="778">
+<tuv xml:lang="EN-US">
+<seg>On a new sheet</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>на новый лист</seg>
+</tuv>
+</tu>
+<tu tuid="779">
+<tuv xml:lang="EN-US">
+<seg>Date and time actions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия с датами и временем</seg>
+</tuv>
+</tu>
+<tu tuid="780">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Outlook scheduling actions for data recognized as a date.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия планирования Microsoft Outlook для данных, отнесенных к датам.</seg>
+</tuv>
+</tu>
+<tu tuid="781">
+<tuv xml:lang="EN-US">
+<seg>Time</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Время</seg>
+</tuv>
+</tu>
+<tu tuid="782">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Outlook is busy. Please close any open Outlook dialogs before using this action, or retry this action in a few moments.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Приложение Microsoft Outlook занято. Закройте все открытые окна Microsoft Outlook перед выполнением этого действия либо попробуйте выполнить его позже.</seg>
+</tuv>
+</tu>
+<tu tuid="783">
+<tuv xml:lang="EN-US">
+<seg>Show my Calendar</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Показать мой календарь</seg>
+</tuv>
+</tu>
+<tu tuid="784">
+<tuv xml:lang="EN-US">
+<seg>Outlook e-mail recipients</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>получатели сообщений Outlook</seg>
+</tuv>
+</tu>
+<tu tuid="785">
+<tuv xml:lang="EN-US">
+<seg>Recognizes names of people you have recently sent e-mail messages to. This is used in conjunction with actions supplied for person names.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Распознавание имен последних получателей ваших электронных писем; выполняется совместно с действиями, предназначенными для имен пользователей.</seg>
+</tuv>
+</tu>
+<tu tuid="786">
+<tuv xml:lang="EN-US">
+<seg>Person name actions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия с именами пользователей</seg>
+</tuv>
+</tu>
+<tu tuid="787">
+<tuv xml:lang="EN-US">
+<seg>Smart tag actions for person names in your Microsoft Office documents, including Microsoft Outlook contact management.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия смарт-тегов, предназначенные для обработки имен пользователей в документах Microsoft Office, включая управление контактами Microsoft Outlook.</seg>
+</tuv>
+</tu>
+<tu tuid="788">
+<tuv xml:lang="EN-US">
+<seg>Person Name</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Имя</seg>
+</tuv>
+</tu>
+<tu tuid="789">
+<tuv xml:lang="EN-US">
+<seg>Send Mail</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отправить</seg>
+</tuv>
+</tu>
+<tu tuid="790">
+<tuv xml:lang="EN-US">
+<seg>Schedule a Meeting</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Запланировать собрание</seg>
+</tuv>
+</tu>
+<tu tuid="791">
+<tuv xml:lang="EN-US">
+<seg>Open Contact</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Открыть контакт</seg>
+</tuv>
+</tu>
+<tu tuid="792">
+<tuv xml:lang="EN-US">
+<seg>Add to Contacts</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Добавить в контакты</seg>
+</tuv>
+</tu>
+<tu tuid="793">
+<tuv xml:lang="EN-US">
+<seg>Insert Address</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вставить адрес</seg>
+</tuv>
+</tu>
+<tu tuid="794">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Outlook could not find the requested contact.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удалось найти нужное контактное лицо.</seg>
+</tuv>
+</tu>
+<tu tuid="795">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Outlook is busy. Please close any open Outlook dialogs before using this action, or retry this action in a few moments.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Приложение Microsoft Outlook занято. Закройте все открытые окна Microsoft Outlook перед выполнением этого действия либо попробуйте выполнить его позже.</seg>
+</tuv>
+</tu>
+<tu tuid="796">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Outlook could not be started or encountered an error.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удалось запустить Microsoft Outlook, или обнаружена ошибка.</seg>
+</tuv>
+</tu>
+<tu tuid="797">
+<tuv xml:lang="EN-US">
+<seg>Map actions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия с картами</seg>
+</tuv>
+</tu>
+<tu tuid="798">
+<tuv xml:lang="EN-US">
+<seg>Smart tag actions for text recognized as places or addresses, including map and driving direction lookup.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия смарт-тегов, предназначенные для обработки текста, отнесенного к местам и адресам, включая карты и направления движения.</seg>
+</tuv>
+</tu>
+<tu tuid="799">
+<tuv xml:lang="EN-US">
+<seg>Smart tag actions for text recognized as addresses, including map and driving direction lookup.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия смарт-тегов, предназначенные для обработки текста, отнесенного к адресам, включая карты и направления движения.</seg>
+</tuv>
+</tu>
+<tu tuid="800">
+<tuv xml:lang="EN-US">
+<seg>Display Map</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Показать карту</seg>
+</tuv>
+</tu>
+<tu tuid="801">
+<tuv xml:lang="EN-US">
+<seg>Display Driving Directions...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Показать направления движения...</seg>
+</tuv>
+</tu>
+<tu tuid="802">
+<tuv xml:lang="EN-US">
+<seg>Stock ticker symbol actions</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия с финансовыми символами</seg>
+</tuv>
+</tu>
+<tu tuid="803">
+<tuv xml:lang="EN-US">
+<seg>Smart tag actions for text recognized as stock or fund symbols, including Web links and the ability to insert data from the Web into Excel.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия смарт-тегов, предназначенные для обработки текста, отнесенного к биржевым или фондовым символам, включая веб-ссылки, а также возможность вставки веб-данных в Excel.</seg>
+</tuv>
+</tu>
+<tu tuid="804">
+<tuv xml:lang="EN-US">
+<seg>Stock ticker</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Финансы</seg>
+</tuv>
+</tu>
+<tu tuid="805">
+<tuv xml:lang="EN-US">
+<seg>Stock quote on MSN MoneyCentral</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Котировка акций на MSN MoneyCentral</seg>
+</tuv>
+</tu>
+<tu tuid="806">
+<tuv xml:lang="EN-US">
+<seg>Company report on MSN MoneyCentral</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отчет компании на MSN MoneyCentral</seg>
+</tuv>
+</tu>
+<tu tuid="807">
+<tuv xml:lang="EN-US">
+<seg>Recent news on MSN MoneyCentral</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Последние новости на MSN MoneyCentral</seg>
+</tuv>
+</tu>
+<tu tuid="808">
+<tuv xml:lang="EN-US">
+<seg>Insert refreshable stock price...</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вставить обновляемый курс акций...</seg>
+</tuv>
+</tu>
+<tu tuid="809">
+<tuv xml:lang="EN-US">
+<seg>The text you entered is not a valid reference or defined name.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Введенный текст не является допустимой ссылкой или зарегистрированным именем.</seg>
+</tuv>
+</tu>
+<tu tuid="810">
+<tuv xml:lang="EN-US">
+<seg>Cannot update the current sheet; it may be protected.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается обновить текущий лист: возможно, он защищен.</seg>
+</tuv>
+</tu>
+<tu tuid="811">
+<tuv xml:lang="EN-US">
+<seg>Smart tag lists</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>списки смарт-тегов</seg>
+</tuv>
+</tu>
+<tu tuid="812">
+<tuv xml:lang="EN-US">
+<seg>Smart tag actions and recognizers specified in list description files.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Действия и распознаватели смарт-тегов, указанные в файлах описания списков.</seg>
+</tuv>
+</tu>
+<tu tuid="813">
+<tuv xml:lang="EN-US">
+<seg>Trie file open error.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ошибка открытия файла данных TRIE.</seg>
+</tuv>
+</tu>
+<tu tuid="814">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Office 2003 component</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Компонент Microsoft Office 2003</seg>
+</tuv>
+</tu>
+<tu tuid="815">
+<tuv xml:lang="EN-US">
+<seg>Copyright © 2002-2003 Microsoft Corporation.  All rights reserved.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>© Корпорация Майкрософт (Microsoft Corporation), 2002-2003.  Все права защищены.</seg>
+</tuv>
+</tu>
+<tu tuid="816">
+<tuv xml:lang="EN-US">
+<seg>Microsoft® is a registered trademark of Microsoft Corporation.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Microsoft® является охраняемым товарным знаком корпорации Майкрософт.</seg>
+</tuv>
+</tu>
+<tu tuid="817">
+<tuv xml:lang="EN-US">
+<seg>Windows® is a registered trademark of Microsoft Corporation.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Windows® является охраняемым товарным знаком корпорации Майкрософт.</seg>
+</tuv>
+</tu>
+<tu tuid="818">
+<tuv xml:lang="EN-US">
+<seg>CorelDRAW!® Graphic Import Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Графический фильтр импорта CorelDRAW!®</seg>
+</tuv>
+</tu>
+<tu tuid="819">
+<tuv xml:lang="EN-US">
+<seg>CorelDRAW!® Graphic Import Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Графический фильтр импорта CorelDRAW!®</seg>
+</tuv>
+</tu>
+<tu tuid="820">
+<tuv xml:lang="EN-US">
+<seg>© 2000 Access Softek All rights reserved</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>© Access Softek, 2000. Все права защищены.</seg>
+</tuv>
+</tu>
+<tu tuid="821">
+<tuv xml:lang="EN-US">
+<seg>About CGM import filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>О фильтре импорта CGM</seg>
+</tuv>
+</tu>
+<tu tuid="822">
+<tuv xml:lang="EN-US">
+<seg>CGM import filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фильтр импорта файлов CGM</seg>
+</tuv>
+</tu>
+<tu tuid="823">
+<tuv xml:lang="EN-US">
+<seg>Version</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Версия</seg>
+</tuv>
+</tu>
+<tu tuid="824">
+<tuv xml:lang="EN-US">
+<seg>Errors</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ошибки</seg>
+</tuv>
+</tu>
+<tu tuid="825">
+<tuv xml:lang="EN-US">
+<seg>Errors occurred while interpreting CGM file</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ошибки при преобразовании файла CGM</seg>
+</tuv>
+</tu>
+<tu tuid="826">
+<tuv xml:lang="EN-US">
+<seg>Please consult</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Обратитесь к</seg>
+</tuv>
+</tu>
+<tu tuid="827">
+<tuv xml:lang="EN-US">
+<seg>for error messages</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>по поводу сообщений об ошибках</seg>
+</tuv>
+</tu>
+<tu tuid="828">
+<tuv xml:lang="EN-US">
+<seg>Log File Size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Размер протокола</seg>
+</tuv>
+</tu>
+<tu tuid="829">
+<tuv xml:lang="EN-US">
+<seg>Is getting large</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>стал слишком большим.</seg>
+</tuv>
+</tu>
+<tu tuid="830">
+<tuv xml:lang="EN-US">
+<seg>You may want to delete this file soon</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Скоро его придется удалять.</seg>
+</tuv>
+</tu>
+<tu tuid="831">
+<tuv xml:lang="EN-US">
+<seg>About</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>О программе</seg>
+</tuv>
+</tu>
+<tu tuid="832">
+<tuv xml:lang="EN-US">
+<seg>Option Pages</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Параметры</seg>
+</tuv>
+</tu>
+<tu tuid="833">
+<tuv xml:lang="EN-US">
+<seg>Basic</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Общие</seg>
+</tuv>
+</tu>
+<tu tuid="834">
+<tuv xml:lang="EN-US">
+<seg>Resources</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ресурсы</seg>
+</tuv>
+</tu>
+<tu tuid="835">
+<tuv xml:lang="EN-US">
+<seg>Picture</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Рисунок</seg>
+</tuv>
+</tu>
+<tu tuid="836">
+<tuv xml:lang="EN-US">
+<seg>Text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Текст</seg>
+</tuv>
+</tu>
+<tu tuid="837">
+<tuv xml:lang="EN-US">
+<seg>Primitives</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Элементы</seg>
+</tuv>
+</tu>
+<tu tuid="838">
+<tuv xml:lang="EN-US">
+<seg>CGM Opts</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Источник</seg>
+</tuv>
+</tu>
+<tu tuid="839">
+<tuv xml:lang="EN-US">
+<seg>Dialogs</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Контроль</seg>
+</tuv>
+</tu>
+<tu tuid="840">
+<tuv xml:lang="EN-US">
+<seg>Save Options</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сохранить параметры</seg>
+</tuv>
+</tu>
+<tu tuid="841">
+<tuv xml:lang="EN-US">
+<seg>Background</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фон</seg>
+</tuv>
+</tu>
+<tu tuid="842">
+<tuv xml:lang="EN-US">
+<seg>Mode</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Режим:</seg>
+</tuv>
+</tu>
+<tu tuid="843">
+<tuv xml:lang="EN-US">
+<seg>Set Color</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выбрать цвет</seg>
+</tuv>
+</tu>
+<tu tuid="844">
+<tuv xml:lang="EN-US">
+<seg>Resources</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ресурсы</seg>
+</tuv>
+</tu>
+<tu tuid="845">
+<tuv xml:lang="EN-US">
+<seg>Directory</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>каталог:</seg>
+</tuv>
+</tu>
+<tu tuid="846">
+<tuv xml:lang="EN-US">
+<seg>Font Configuration</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>таблица шрифтов:</seg>
+</tuv>
+</tu>
+<tu tuid="847">
+<tuv xml:lang="EN-US">
+<seg>Log File</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>файл журнала:</seg>
+</tuv>
+</tu>
+<tu tuid="848">
+<tuv xml:lang="EN-US">
+<seg>Disk File</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>файл WMF</seg>
+</tuv>
+</tu>
+<tu tuid="849">
+<tuv xml:lang="EN-US">
+<seg>Picture</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Рисунок:</seg>
+</tuv>
+</tu>
+<tu tuid="850">
+<tuv xml:lang="EN-US">
+<seg>Restrict Size</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Ограничить размер</seg>
+</tuv>
+</tu>
+<tu tuid="851">
+<tuv xml:lang="EN-US">
+<seg>Preserve Coord Range</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сохранить диапазон координат</seg>
+</tuv>
+</tu>
+<tu tuid="852">
+<tuv xml:lang="EN-US">
+<seg>Clip Horizontal Adjust Factor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Горизонтальный множитель:</seg>
+</tuv>
+</tu>
+<tu tuid="853">
+<tuv xml:lang="EN-US">
+<seg>Clip Vertical Adjust Factor</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вертикальный множитель:</seg>
+</tuv>
+</tu>
+<tu tuid="854">
+<tuv xml:lang="EN-US">
+<seg>Simulate Text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Преобразовать в кривые</seg>
+</tuv>
+</tu>
+<tu tuid="855">
+<tuv xml:lang="EN-US">
+<seg>Restricted Text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вписать текст:</seg>
+</tuv>
+</tu>
+<tu tuid="856">
+<tuv xml:lang="EN-US">
+<seg>Override CGM Character Set</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не использовать набор символов CGM</seg>
+</tuv>
+</tu>
+<tu tuid="857">
+<tuv xml:lang="EN-US">
+<seg>CGM Character Set</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Набор символов CGM:</seg>
+</tuv>
+</tu>
+<tu tuid="858">
+<tuv xml:lang="EN-US">
+<seg>WMF Character Set</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Набор символов WMF:</seg>
+</tuv>
+</tu>
+<tu tuid="859">
+<tuv xml:lang="EN-US">
+<seg>Pattern Mode</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Узор:</seg>
+</tuv>
+</tu>
+<tu tuid="860">
+<tuv xml:lang="EN-US">
+<seg>Edge Mode</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Края:</seg>
+</tuv>
+</tu>
+<tu tuid="861">
+<tuv xml:lang="EN-US">
+<seg>Line Mode</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Линии:</seg>
+</tuv>
+</tu>
+<tu tuid="862">
+<tuv xml:lang="EN-US">
+<seg>Insert WMF Window</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Окно WMF</seg>
+</tuv>
+</tu>
+<tu tuid="863">
+<tuv xml:lang="EN-US">
+<seg>Use WMF Rectangles</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Прямоугольники WMF</seg>
+</tuv>
+</tu>
+<tu tuid="864">
+<tuv xml:lang="EN-US">
+<seg>Use WMF Palette Colors</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Цвета WMF</seg>
+</tuv>
+</tu>
+<tu tuid="865">
+<tuv xml:lang="EN-US">
+<seg>Map to 5x9x5 colors</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Сглаживание цветов (5x9x5)</seg>
+</tuv>
+</tu>
+<tu tuid="866">
+<tuv xml:lang="EN-US">
+<seg>Make bitmaps printable</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Печатаемые точечные рисунки</seg>
+</tuv>
+</tu>
+<tu tuid="867">
+<tuv xml:lang="EN-US">
+<seg>Metafile Source</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Источник метафайла:</seg>
+</tuv>
+</tu>
+<tu tuid="868">
+<tuv xml:lang="EN-US">
+<seg>Display</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Отображать:</seg>
+</tuv>
+</tu>
+<tu tuid="869">
+<tuv xml:lang="EN-US">
+<seg>Show Errors</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Показывать ошибки</seg>
+</tuv>
+</tu>
+<tu tuid="870">
+<tuv xml:lang="EN-US">
+<seg>Option Dialog</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Выводить это окно:</seg>
+</tuv>
+</tu>
+<tu tuid="871">
+<tuv xml:lang="EN-US">
+<seg>Importing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Импорт</seg>
+</tuv>
+</tu>
+<tu tuid="872">
+<tuv xml:lang="EN-US">
+<seg>CGM Graphic Import - Version</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Импорт файлов CGM - версия</seg>
+</tuv>
+</tu>
+<tu tuid="873">
+<tuv xml:lang="EN-US">
+<seg>All Rights Reserved</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Все права защищены.</seg>
+</tuv>
+</tu>
+<tu tuid="874">
+<tuv xml:lang="EN-US">
+<seg>CGM Import Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фильтр импорта файлов CGM</seg>
+</tuv>
+</tu>
+<tu tuid="875">
+<tuv xml:lang="EN-US">
+<seg>Copyright Microsoft Corp. 1995-2000 and Copyright (c) 1993-1996 Henderson Software Inc.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>© Корпорация Майкрософт (Microsoft Corp.), 1995-2000 и © Henderson Software Inc., 1993-1996.</seg>
+</tuv>
+</tu>
+<tu tuid="876">
+<tuv xml:lang="EN-US">
+<seg>Encapsulated PostScript Graphics Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Графический фильтр Encapsulated PostScript</seg>
+</tuv>
+</tu>
+<tu tuid="877">
+<tuv xml:lang="EN-US">
+<seg>Exporting</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Экспорт</seg>
+</tuv>
+</tu>
+<tu tuid="878">
+<tuv xml:lang="EN-US">
+<seg>GIF Import/Export Graphic Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Графический фильтр импорта/экспорта GIF</seg>
+</tuv>
+</tu>
+<tu tuid="879">
+<tuv xml:lang="EN-US">
+<seg>JPEG Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фильтр JPEG</seg>
+</tuv>
+</tu>
+<tu tuid="880">
+<tuv xml:lang="EN-US">
+<seg>JPEG Import/Export Graphic Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Графический фильтр импорта/экспорта JPEG</seg>
+</tuv>
+</tu>
+<tu tuid="881">
+<tuv xml:lang="EN-US">
+<seg>This converter requires a more recent msconv97.dll</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Данному конвертеру необходима более свежая версия библиотеки msconv97.dll</seg>
+</tuv>
+</tu>
+<tu tuid="882">
+<tuv xml:lang="EN-US">
+<seg>This document contains nested tables that are too complex to represent.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Документ содержит слишком сложные вложенные таблицы.</seg>
+</tuv>
+</tu>
+<tu tuid="883">
+<tuv xml:lang="EN-US">
+<seg>Unable to load equation converter. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается загрузить конвертер формул. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="884">
+<tuv xml:lang="EN-US">
+<seg>The installed equation converter is too old. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Установленный конвертер формул устарел. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="885">
+<tuv xml:lang="EN-US">
+<seg>Unable to load graphics conversion filter. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается загрузить графический фильтр. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="886">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert graphic. The installed WordPerfect graphics filter is an old version. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать графику. Установленный графический фильтр WordPerfect устарел. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="887">
+<tuv xml:lang="EN-US">
+<seg>Cannot find the graphic file '%s'. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается найти графический файл '%s'. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="888">
+<tuv xml:lang="EN-US">
+<seg>The file '%s' is an unknown graphic format. The application may attempt to convert the graphic. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формат графического файла '%s' неизвестен. Возможно, приложение попытается преобразовать его. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="889">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert graphic. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать графику. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="890">
+<tuv xml:lang="EN-US">
+<seg>Insufficient memory to convert equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Недостаточно памяти для преобразования формулы. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="891">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert badly formed equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать формулу. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="892">
+<tuv xml:lang="EN-US">
+<seg>Problem converting equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать формулу. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="893">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Word 97 Conversion</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Конвертер Microsoft Word 97</seg>
+</tuv>
+</tu>
+<tu tuid="894">
+<tuv xml:lang="EN-US">
+<seg>Unable to load graphics conversion filter. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается загрузить графический фильтр. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="895">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert graphic. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать графику. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="896">
+<tuv xml:lang="EN-US">
+<seg>Use custom font mapping file?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Использовать специальный файл подстановки шрифтов?</seg>
+</tuv>
+</tu>
+<tu tuid="897">
+<tuv xml:lang="EN-US">
+<seg>Font mapping file name or path is not valid</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неверный путь или файл таблицы шрифтов</seg>
+</tuv>
+</tu>
+<tu tuid="898">
+<tuv xml:lang="EN-US">
+<seg>Font mapping file name specified is not valid</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неверное имя файла таблицы шрифтов</seg>
+</tuv>
+</tu>
+<tu tuid="899">
+<tuv xml:lang="EN-US">
+<seg>Font mapping file specified does not exist</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Указанный файл таблицы шрифтов не существует</seg>
+</tuv>
+</tu>
+<tu tuid="900">
+<tuv xml:lang="EN-US">
+<seg>This file contains double-byte characters which cannot be converted</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Данный файл содержит двухбайтовые символы, которые не могут быть преобразованы</seg>
+</tuv>
+</tu>
+<tu tuid="901">
+<tuv xml:lang="EN-US">
+<seg>formcheckbox</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>formcheck</seg>
+</tuv>
+</tu>
+<tu tuid="902">
+<tuv xml:lang="EN-US">
+<seg>formdropdown</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>formlist</seg>
+</tuv>
+</tu>
+<tu tuid="903">
+<tuv xml:lang="EN-US">
+<seg>table of figures</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>список иллюстраций</seg>
+</tuv>
+</tu>
+<tu tuid="904">
+<tuv xml:lang="EN-US">
+<seg>envelope address</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>адрес</seg>
+</tuv>
+</tu>
+<tu tuid="905">
+<tuv xml:lang="EN-US">
+<seg>envelope return</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>обратный адрес</seg>
+</tuv>
+</tu>
+<tu tuid="906">
+<tuv xml:lang="EN-US">
+<seg>page number</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>номер страницы</seg>
+</tuv>
+</tu>
+<tu tuid="907">
+<tuv xml:lang="EN-US">
+<seg>table of authorities</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>таблица ссылок</seg>
+</tuv>
+</tu>
+<tu tuid="908">
+<tuv xml:lang="EN-US">
+<seg>List</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Список</seg>
+</tuv>
+</tu>
+<tu tuid="909">
+<tuv xml:lang="EN-US">
+<seg>List 2</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Список 2</seg>
+</tuv>
+</tu>
+<tu tuid="910">
+<tuv xml:lang="EN-US">
+<seg>List 3</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Список 3</seg>
+</tuv>
+</tu>
+<tu tuid="911">
+<tuv xml:lang="EN-US">
+<seg>List 4</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Список 4</seg>
+</tuv>
+</tu>
+<tu tuid="912">
+<tuv xml:lang="EN-US">
+<seg>List 5</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Список 5</seg>
+</tuv>
+</tu>
+<tu tuid="913">
+<tuv xml:lang="EN-US">
+<seg>List Bullet</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Маркированный список</seg>
+</tuv>
+</tu>
+<tu tuid="914">
+<tuv xml:lang="EN-US">
+<seg>List Bullet 2</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Маркированный список 2</seg>
+</tuv>
+</tu>
+<tu tuid="915">
+<tuv xml:lang="EN-US">
+<seg>List Bullet 3</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Маркированный список 3</seg>
+</tuv>
+</tu>
+<tu tuid="916">
+<tuv xml:lang="EN-US">
+<seg>List Bullet 4</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Маркированный список 4</seg>
+</tuv>
+</tu>
+<tu tuid="917">
+<tuv xml:lang="EN-US">
+<seg>List Bullet 5</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Маркированный список 5</seg>
+</tuv>
+</tu>
+<tu tuid="918">
+<tuv xml:lang="EN-US">
+<seg>List Number</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нумерованный список</seg>
+</tuv>
+</tu>
+<tu tuid="919">
+<tuv xml:lang="EN-US">
+<seg>List Number 2</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нумерованный список 2</seg>
+</tuv>
+</tu>
+<tu tuid="920">
+<tuv xml:lang="EN-US">
+<seg>List Number 3</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нумерованный список 3</seg>
+</tuv>
+</tu>
+<tu tuid="921">
+<tuv xml:lang="EN-US">
+<seg>List Number 4</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нумерованный список 4</seg>
+</tuv>
+</tu>
+<tu tuid="922">
+<tuv xml:lang="EN-US">
+<seg>List Number 5</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Нумерованный список 5</seg>
+</tuv>
+</tu>
+<tu tuid="923">
+<tuv xml:lang="EN-US">
+<seg>Closing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Прощание</seg>
+</tuv>
+</tu>
+<tu tuid="924">
+<tuv xml:lang="EN-US">
+<seg>Signature</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Подпись</seg>
+</tuv>
+</tu>
+<tu tuid="925">
+<tuv xml:lang="EN-US">
+<seg>Body Text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Основной текст</seg>
+</tuv>
+</tu>
+<tu tuid="926">
+<tuv xml:lang="EN-US">
+<seg>Body Text Indent</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Основной текст с отступом</seg>
+</tuv>
+</tu>
+<tu tuid="927">
+<tuv xml:lang="EN-US">
+<seg>List Continue</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Продолжение списка</seg>
+</tuv>
+</tu>
+<tu tuid="928">
+<tuv xml:lang="EN-US">
+<seg>List Continue 2</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Продолжение списка 2</seg>
+</tuv>
+</tu>
+<tu tuid="929">
+<tuv xml:lang="EN-US">
+<seg>List Continue 3</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Продолжение списка 3</seg>
+</tuv>
+</tu>
+<tu tuid="930">
+<tuv xml:lang="EN-US">
+<seg>List Continue 4</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Продолжение списка 4</seg>
+</tuv>
+</tu>
+<tu tuid="931">
+<tuv xml:lang="EN-US">
+<seg>List Continue 5</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Продолжение списка 5</seg>
+</tuv>
+</tu>
+<tu tuid="932">
+<tuv xml:lang="EN-US">
+<seg>Message Header</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Заголовок сообщения</seg>
+</tuv>
+</tu>
+<tu tuid="933">
+<tuv xml:lang="EN-US">
+<seg>Subtitle</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Подзаголовок</seg>
+</tuv>
+</tu>
+<tu tuid="934">
+<tuv xml:lang="EN-US">
+<seg>Microsoft Word 97 Document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Документ Microsoft Word 97</seg>
+</tuv>
+</tu>
+<tu tuid="935">
+<tuv xml:lang="EN-US">
+<seg>Cannot find subdocument '%s'. Do you want to specify the path of the subdocument?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Вложенный документ '%s' не найден. Проверьте, правильно ли указан путь.</seg>
+</tuv>
+</tu>
+<tu tuid="936">
+<tuv xml:lang="EN-US">
+<seg>Unknown Style</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Неизвестный стиль</seg>
+</tuv>
+</tu>
+<tu tuid="937">
+<tuv xml:lang="EN-US">
+<seg>Word 97 Converter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Конвертер документов Word 97</seg>
+</tuv>
+</tu>
+<tu tuid="938">
+<tuv xml:lang="EN-US">
+<seg>Importing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Импорт</seg>
+</tuv>
+</tu>
+<tu tuid="939">
+<tuv xml:lang="EN-US">
+<seg>Microsoft PICT Import Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Фильтр импорта файлов PICT (Microsoft)</seg>
+</tuv>
+</tu>
+<tu tuid="940">
+<tuv xml:lang="EN-US">
+<seg>Importing</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Импорт</seg>
+</tuv>
+</tu>
+<tu tuid="941">
+<tuv xml:lang="EN-US">
+<seg>PNG Graphics</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Рисунки PNG</seg>
+</tuv>
+</tu>
+<tu tuid="942">
+<tuv xml:lang="EN-US">
+<seg>PNG Import/Export Graphic Filter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Графический фильтр импорта/экспорта PNG</seg>
+</tuv>
+</tu>
+<tu tuid="943">
+<tuv xml:lang="EN-US">
+<seg>This converter requires a more recent msconv97.dll</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Данному конвертеру необходима более свежая версия библиотеки msconv97.dll</seg>
+</tuv>
+</tu>
+<tu tuid="944">
+<tuv xml:lang="EN-US">
+<seg>Unable to load equation converter. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается загрузить конвертер формул. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="945">
+<tuv xml:lang="EN-US">
+<seg>The installed equation converter is too old. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Установленный конвертер формул устарел. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="946">
+<tuv xml:lang="EN-US">
+<seg>Unable to load graphics conversion filter. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается загрузить графический фильтр. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="947">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert graphic. The installed WordPerfect graphics filter is an old version. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать графику. Установленный графический фильтр WordPerfect устарел. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="948">
+<tuv xml:lang="EN-US">
+<seg>Cannot find the graphic file '%s'. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается найти графический файл '%s'. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="949">
+<tuv xml:lang="EN-US">
+<seg>The file '%s' is an unknown graphic format. The application may attempt to convert the graphic. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формат графического файла '%s' неизвестен. Возможно, приложение попытается преобразовать его. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="950">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert graphic. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать графику. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="951">
+<tuv xml:lang="EN-US">
+<seg>Insufficient memory to convert equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Недостаточно памяти для преобразования формулы. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="952">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert badly formed equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать формулу. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="953">
+<tuv xml:lang="EN-US">
+<seg>Problem converting equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать формулу. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="954">
+<tuv xml:lang="EN-US">
+<seg>Recover Text</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Резервная копия</seg>
+</tuv>
+</tu>
+<tu tuid="955">
+<tuv xml:lang="EN-US">
+<seg>Recover Text from Any File</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Резервная копия любого файла</seg>
+</tuv>
+</tu>
+<tu tuid="956">
+<tuv xml:lang="EN-US">
+<seg>Recover Text Converter</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Конвертер резервных копий</seg>
+</tuv>
+</tu>
+<tu tuid="957">
+<tuv xml:lang="EN-US">
+<seg>Copyright © 1995-2003 Microsoft Corporation.  All rights reserved.</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>© Корпорация Майкрософт (Microsoft Corporation), 1995-2003.  Все права защищены.</seg>
+</tuv>
+</tu>
+<tu tuid="958">
+<tuv xml:lang="EN-US">
+<seg>Invalid document</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Документ поврежден</seg>
+</tuv>
+</tu>
+<tu tuid="959">
+<tuv xml:lang="EN-US">
+<seg>Document is too large</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Размер документа превышает допустимый размер</seg>
+</tuv>
+</tu>
+<tu tuid="960">
+<tuv xml:lang="EN-US">
+<seg>Cannot locate Microsoft Conversion Library (msconv97.dll)</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается найти библиотеку msconv97.dll</seg>
+</tuv>
+</tu>
+<tu tuid="961">
+<tuv xml:lang="EN-US">
+<seg>This converter requires a more recent msconv97.dll</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Данному конвертеру необходима более свежая версия библиотеки msconv97.dll</seg>
+</tuv>
+</tu>
+<tu tuid="962">
+<tuv xml:lang="EN-US">
+<seg>Unable to load equation converter. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается загрузить конвертер формул. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="963">
+<tuv xml:lang="EN-US">
+<seg>The installed equation converter is too old. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Установленный конвертер формул устарел. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="964">
+<tuv xml:lang="EN-US">
+<seg>Unable to load graphics conversion filter. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается загрузить графический фильтр. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="965">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert graphic. The installed WordPerfect graphics filter is an old version. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать графику. Установленный графический фильтр WordPerfect устарел. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="966">
+<tuv xml:lang="EN-US">
+<seg>Cannot find the graphic file '%s'. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается найти графический файл '%s'. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="967">
+<tuv xml:lang="EN-US">
+<seg>The file '%s' is an unknown graphic format. The application may attempt to convert the graphic. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Формат графического файла '%s' неизвестен. Возможно, приложение попытается преобразовать его. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="968">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert graphic. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать графику. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="969">
+<tuv xml:lang="EN-US">
+<seg>Insufficient memory to convert equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Недостаточно памяти для преобразования формулы. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="970">
+<tuv xml:lang="EN-US">
+<seg>Unable to convert badly formed equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать формулу. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+<tu tuid="971">
+<tuv xml:lang="EN-US">
+<seg>Problem converting equation. Continue with document conversion?</seg>
+</tuv>
+<tuv xml:lang="RU">
+<seg>Не удается преобразовать формулу. Продолжить преобразование документа?</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

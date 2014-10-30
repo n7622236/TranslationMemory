@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<tmx version="1.4">
+  <header />
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="vi">
+        <seg>CurrentCulture</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="vi">
+        <seg>CurrentUICulture</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="vi">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="vi">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Script</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="vi">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ký hiệu Chung</seg>
+      </tuv>
+    </tu>
+    <tu tuid="6">
+      <tuv xml:lang="vi">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở</seg>
+      </tuv>
+    </tu>
+    <tu tuid="7">
+      <tuv xml:lang="vi">
+        <seg>SetCulture</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+    <tu tuid="8">
+      <tuv xml:lang="vi">
+        <seg>TranslationMemory</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>No Match</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

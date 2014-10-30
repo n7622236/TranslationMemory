@@ -1,0 +1,18 @@
+<DocumentElement>
+  <Culture>de-DE</Culture>
+  <Birthdays>
+    <Name>Sam</Name>
+    <Birthday>1985-06-12T00:00:00</Birthday>
+    <Cost>200</Cost>
+  </Birthdays>
+  <Birthdays>
+    <Name>Janet</Name>
+    <Birthday>1990-04-05T00:00:00</Birthday>
+    <Cost>400</Cost>
+  </Birthdays>
+  <Birthdays>
+    <Name>Tony</Name>
+    <Birthday>1977-11-05T00:00:00</Birthday>
+    <Cost>1000</Cost>
+  </Birthdays>
+</DocumentElement>
